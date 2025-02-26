@@ -3,19 +3,22 @@
         "id": 616,
         "url": "https://ftp.dot.state.tx.us/pub/txdot/get-involved/ftw/southeast-connector/060420-biological-form.pdf",
         "filename": "060420-biological-form.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 6658,
         "url": "https://www.wur.nl/web/file?uuid=72403751-da06-4e67-9434-ef6a57304151&owner=497277b7-cdf0-4852-b124-6b45db364d72&contentid=486469",
         "filename": "file?uuid=72403751-da06-4e67-9434-ef6a57304151&owner=497277b7-cdf0-4852-b124-6b45db364d72&contentid=486469",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 9472,
         "url": "http://crrc.org/join_us/2_senior_candidate_progress_record_20may2021.pdf",
         "filename": "2_senior_candidate_progress_record_20may2021.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 343,
@@ -27,13 +30,15 @@
         "id": 1771,
         "url": "http://feuersteintraining.co.uk/pdf/evaulation-fie-standard.pdf",
         "filename": "evaulation-fie-standard.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 5003,
         "url": "https://people.math.sc.edu/alicial/teaching/142-011-S2016.pdf",
         "filename": "142-011-S2016.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 9896,
@@ -87,55 +92,64 @@
         "id": 1172,
         "url": "https://benchmark-restaurant.com/wp-content/uploads/2021/05/May-2021-Menu-2.pdf",
         "filename": "May-2021-Menu-2.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 7247,
         "url": "http://lutonmusic.org.uk/Sub%20Application%20Form%202021.pdf",
         "filename": "Sub%20Application%20Form%202021.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 933,
         "url": "https://www.lordrobertshotel.com.au/files/LRHMenu_Food.pdf",
         "filename": "LRHMenu_Food.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 3822,
         "url": "https://www.lowcountrymow.org/pdfs/mow-menu-july-2021.pdf",
         "filename": "mow-menu-july-2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 3792,
         "url": "https://www.musekitchen.com.au/wp-content/uploads/2021/06/300621_HunterMenu.pdf",
         "filename": "300621_HunterMenu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 6598,
         "url": "https://www.ambarrestaurant.com/wp-content/uploads/2021/03/AMBAR-Allergy-Menu-Lunch-July-2021.pdf",
         "filename": "AMBAR-Allergy-Menu-Lunch-July-2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 820,
         "url": "https://www.thealb.co.uk/uploads/6/1/8/5/61859313/food_menu_june_2021.pdf",
         "filename": "food_menu_june_2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 7307,
         "url": "https://ohso.osu.edu/sites/default/files/2020/09/ohso-coaches-training-manual.pdf",
         "filename": "ohso-coaches-training-manual.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9599,
         "url": "https://socialkitchenandbar.com/menus/social-final.pdf",
         "filename": "social-final.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 7906,
@@ -147,37 +161,43 @@
         "id": 6479,
         "url": "https://www.ripecafesassafras.com/static/uploads/files/breakfast-menu-january-2021-wfkdcgsmajis.pdf",
         "filename": "breakfast-menu-january-2021-wfkdcgsmajis.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 3828,
         "url": "https://fultonsteamboatinn.com/wp-content/uploads/2021/06/Breakfast-Menu.pdf",
         "filename": "Breakfast-Menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 6411,
         "url": "https://sylvanpost.co.uk/wp-content/uploads/sites/9/2021/06/portobello-SYLVAN-mains-new.pdf",
         "filename": "portobello-SYLVAN-mains-new.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 4281,
         "url": "https://www.cockinnmaidstone.co.uk/sites/default/files/cock_inn_menu_a4_0521.pdf",
         "filename": "cock_inn_menu_a4_0521.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4885,
         "url": "http://www.redcanyonlodge.com/media/uploads/files/2021%20Dinner%20Early%20June%20Menu.pdf",
         "filename": "2021%20Dinner%20Early%20June%20Menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 6184,
         "url": "http://localemio.com.au/wp-content/uploads/2021/07/Locale-Mio-Takeaway-Menu_A4_July-2020_FA.pdf",
         "filename": "Locale-Mio-Takeaway-Menu_A4_July-2020_FA.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 5297,
@@ -189,49 +209,57 @@
         "id": 4314,
         "url": "https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/the-palms-hotel-and-spa/media/ird-revised-7_14_2021-60ef4736c6044.pdf",
         "filename": "ird-revised-7_14_2021-60ef4736c6044.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 6208,
         "url": "http://www.sudshut.com/wp-content/uploads/2021/06/menu-contratto-5-21.pdf",
         "filename": "menu-contratto-5-21.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 3633,
         "url": "http://baltimorepensionlitigation.com/Portals/baltimorepensionlitigation.com/Notice%20with%20Opt%20Out%20Form.pdf",
         "filename": "Notice%20with%20Opt%20Out%20Form.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 3682,
         "url": "https://www.bmcc.nsw.gov.au/sites/default/files/docs/Fees%20%26%20Charges%202021-2022%20-%20FINAL.pdf",
         "filename": "Fees%20%26%20Charges%202021-2022%20-%20FINAL.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 9298,
         "url": "https://gravitasimpact.com/wp-content/uploads/2020/04/Adam-Siegel-Bio-GIPC-Final.pdf",
         "filename": "Adam-Siegel-Bio-GIPC-Final.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 758,
         "url": "https://wwumccc.org/wp-content/uploads/2019/12/Yoga-Chapel-Retreat-Menu.pdf",
         "filename": "Yoga-Chapel-Retreat-Menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 2262,
         "url": "https://www.castletonbcc.com/wp-content/uploads/2020/06/Waterfront-Dining-on-Cobbetts-12.pdf",
         "filename": "Waterfront-Dining-on-Cobbetts-12.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 7215,
         "url": "https://www.acecashexpress.com/uploads/files/products/payday/internet/rates/TX_FeeSchedule.pdf?_cchid=45c8a81597e59daea2a51a83dc548244",
         "filename": "TX_FeeSchedule.pdf?_cchid=45c8a81597e59daea2a51a83dc548244",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 7533,
@@ -249,43 +277,50 @@
         "id": 6270,
         "url": "https://www.stirkhouse.co.uk/wp-content/uploads/2021/06/Seasons_Daytime-Light-Dining-Menu_2106.pdf",
         "filename": "Seasons_Daytime-Light-Dining-Menu_2106.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4890,
         "url": "https://sandpiperresort.ca/wp-content/uploads/2021/05/Sandpiper-Menu-Clubhouse-SundayBrunch-2021.pdf",
         "filename": "Sandpiper-Menu-Clubhouse-SundayBrunch-2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 6006,
         "url": "https://firesidepubcompany.com/wp-content/uploads/2021/04/blueball-main-mon-sat-pb4.pdf",
         "filename": "blueball-main-mon-sat-pb4.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 1651,
         "url": "https://08a55821-1610-424d-8a76-b021a4cd12fd.filesusr.com/ugd/5abd8f_fda6e463cca349909440cc0185460867.pdf",
         "filename": "5abd8f_fda6e463cca349909440cc0185460867.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 3770,
         "url": "https://www.wowamericaneats.com/uploads/WOWAECovingtonToGoMenu072021.pdf",
         "filename": "WOWAECovingtonToGoMenu072021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 7294,
         "url": "http://parsonstable.com/uploads/menu/JULY-2021-UPDATED-ParsonsTable_Menu.pdf",
         "filename": "JULY-2021-UPDATED-ParsonsTable_Menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 9256,
         "url": "https://texasbarbecuecafe.com/wp-content/uploads/2021/06/Take_Out_Summer_2021Web.pdf",
         "filename": "Take_Out_Summer_2021Web.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 1780,
@@ -315,37 +350,43 @@
         "id": 8504,
         "url": "https://schedule.imperial.edu/download?course_id=201610.10323",
         "filename": "download?course_id=201610.10323",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 1823,
         "url": "http://www.bellinis-mermaidquay.com/uploads/BMQ%20-%20Secondi%20web.pdf",
         "filename": "BMQ%20-%20Secondi%20web.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 6414,
         "url": "https://guadalaharrysbarandgrill.com/wp-content/uploads/2020/06/Sandwiches.pdf",
         "filename": "Sandwiches.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 8870,
         "url": "https://voiceboxkaraoke.com/wp-content/uploads/2019/03/FWbigmenu-5.25.21.pdf",
         "filename": "FWbigmenu-5.25.21.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 6349,
         "url": "https://web.library.yale.edu/printpdf/form/feedback?findITURL=https%3A//collections.library.yale.edu/catalog/11861040",
         "filename": "11861040",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 3532,
         "url": "https://web.library.yale.edu/printpdf/form/feedback?findITURL=https%3A//collections.library.yale.edu/catalog%3Ff%5BsubjectName_ssim%5D%5B%5D%3DPlantin%20Press.",
         "filename": "catalog%3Ff%5BsubjectName_ssim%5D%5B%5D%3DPlantin%20Press.",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 3315,
@@ -357,49 +398,57 @@
         "id": 8702,
         "url": "https://www.mesirow.com/sites/default/files/Form%20CRS/fee-schedule-2021-nfs.pdf",
         "filename": "fee-schedule-2021-nfs.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 4061,
         "url": "https://azullatinkitchen.com/wp-content/uploads/Azul-Latin-Kitchen-menu-summer-21.pdf",
         "filename": "Azul-Latin-Kitchen-menu-summer-21.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 704,
         "url": "https://swingingdoor.com/wp-content/uploads/2015/04/Swinging-Door-To-Go-20210521.pdf",
         "filename": "Swinging-Door-To-Go-20210521.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 8785,
         "url": "https://assets.website-files.com/604a3299f566ec4902909e5c/60f18e6a0bbd831524e53490_3.0_NACHMITTAG_SPEISEKARTE_SOMMER_21_02.pdf",
         "filename": "60f18e6a0bbd831524e53490_3.0_NACHMITTAG_SPEISEKARTE_SOMMER_21_02.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 7031,
         "url": "https://uploads.documents.cimpress.io/v1/uploads/fca58b88-3f54-40d5-91de-d122de9a569c~110/original?tenant=vbu-digital",
         "filename": "original?tenant=vbu-digital",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 5156,
         "url": "https://currumbinsanctuary.com.au/application/files/2115/6695/8452/Privacy_Policy_NTAQ_Sept_18.pdf",
         "filename": "Privacy_Policy_NTAQ_Sept_18.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 9165,
         "url": "https://housing.mt.gov/_shared/MBOH/docs/Meetings/2018/January08BoardMinutesPacket.pdf",
         "filename": "January08BoardMinutesPacket.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5469,
         "url": "https://www.cityofroseburg.org/storage/app/media/ADM/Documents/Fee%20Schedule_2021_07_01.pdf",
         "filename": "Fee%20Schedule_2021_07_01.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 6636,
@@ -417,7 +466,8 @@
         "id": 9273,
         "url": "https://fnfinancing.com/Privacy%20Policy.pdf",
         "filename": "Privacy%20Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 7555,
@@ -429,7 +479,8 @@
         "id": 6726,
         "url": "https://www.resoluteocala.com/wp-content/uploads/2021/04/resolute-ocala-privacy-policy.pdf",
         "filename": "resolute-ocala-privacy-policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 1563,
@@ -441,31 +492,36 @@
         "id": 5833,
         "url": "https://thechoralhub.com/policy.pdf",
         "filename": "policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 2067,
         "url": "https://ashlandnh.org/wp-content/uploads/2021/07/PB_07072021_Minutes_draft.pdf",
         "filename": "PB_07072021_Minutes_draft.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 8574,
         "url": "https://sewerbyhall.co.uk/EasySiteWeb/EasySite/StyleData/sewerby-hall-and-gardens/downloads/menus/hospitality-menu.pdf",
         "filename": "hospitality-menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 52,
         "url": "https://adoplayer.com/Adoplayer.com%20-%20Privacy%20Policy%20(GDPR).pdf",
         "filename": "Adoplayer.com%20-%20Privacy%20Policy%20(GDPR).pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 2199,
         "url": "https://www.rfq.com.au/wp-content/uploads/2021/03/Privacy-Policy.pdf",
         "filename": "Privacy-Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 9938,
@@ -477,7 +533,8 @@
         "id": 7188,
         "url": "https://kansasregents.org/resources/PDF/About/Board_Meetings/FY_2018/C_March_14_2018_Board_Minutes.pdf",
         "filename": "C_March_14_2018_Board_Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 3087,
@@ -495,37 +552,43 @@
         "id": 7948,
         "url": "https://nvhealthresponse.nv.gov/wp-content/uploads/2021/05/Draft-COVID-19-Mitigation-and-Management-Task-Force-Draft-Minutes-5.20.21.pdf",
         "filename": "Draft-COVID-19-Mitigation-and-Management-Task-Force-Draft-Minutes-5.20.21.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6330,
         "url": "https://bgsmkl.com/Docs/FEES.pdf",
         "filename": "FEES.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 6497,
         "url": "https://www.cockburn.wa.gov.au/getattachment/52a85ad2-8523-4d11-ae25-b9fbf0548e6e/ECM_10012088_v1_Special-Council-Meeting-Minutes-26-November-2020.pdf.aspx",
         "filename": "ECM_10012088_v1_Special-Council-Meeting-Minutes-26-November-2020.pdf.aspx",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 442,
         "url": "https://cdn.athlinks.com/policy/Athlinks_Privacy_Policy.pdf",
         "filename": "Athlinks_Privacy_Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 6981,
         "url": "https://www.terrehautechamber.com/wp-content/uploads/2021/07/Taste-Terre-Haute-2021-J-Fords.pdf",
         "filename": "Taste-Terre-Haute-2021-J-Fords.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 6037,
         "url": "http://fshoc.org/minutes/2015/7-2-15.pdf",
         "filename": "7-2-15.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9841,
@@ -537,67 +600,78 @@
         "id": 4807,
         "url": "https://ci.buda.tx.us/ArchiveCenter/ViewFile/Item/607",
         "filename": "607",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9303,
         "url": "https://12cb2128-7394-8222-1d87-7da4feb76eb8.filesusr.com/ugd/532f26_503e03c18bab4a92a99c2b0ec5f196dc.pdf",
         "filename": "532f26_503e03c18bab4a92a99c2b0ec5f196dc.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1464,
         "url": "https://bccat.ca/pubs/Minutes/2021Environmentals.pdf",
         "filename": "2021Environmentals.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 895,
         "url": "https://www.laredo.edu/cms/LCC/Instruction/Divisions/Workforce_Education/Industrial_Technology/Faculty/Bernal,_Jorge/Spring_2014/WLDG_1553-M01/",
         "filename": "WLDG_1553-M01",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 6631,
         "url": "https://thunderbay.gatewaycasinos.com/wp-content/uploads/2019/10/New-bar-menu-May-2019.pdf",
         "filename": "New-bar-menu-May-2019.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4279,
         "url": "https://www.gatewayhomepsychology.com.au/wp-includes/PrivacyPolicy/GatewayHomePsychologyPrivacyPolicy.pdf",
         "filename": "GatewayHomePsychologyPrivacyPolicy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 5256,
         "url": "https://www.mauicounty.gov/ArchiveCenter/ViewFile/Item/26916",
         "filename": "26916",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7318,
         "url": "https://www.international-petroleum.com/download/ipc-to-present-at-a-virtual-town-hall-meeting-on-february-9-2021/?wpdmdl=3258&refresh=60f9d3a8c063b1626985384",
         "filename": "?wpdmdl=3258&refresh=60f9d3a8c063b1626985384",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 807,
         "url": "https://group.hexatronic.com/hubfs/press-releases/2021-07-01-Hexatronic-acquires-duct-and-tube-manufacturer-Weterings-in-the-Netherlands.pdf?hsLang=en",
         "filename": "2021-07-01-Hexatronic-acquires-duct-and-tube-manufacturer-Weterings-in-the-Netherlands.pdf?hsLang=en",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 3155,
         "url": "http://nu-delhilounge.com/pdfs/Nu-Dehli-Drinks-Menu-2018.pdf",
         "filename": "Nu-Dehli-Drinks-Menu-2018.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 5069,
         "url": "https://www.ineko.sk/file_download/1276",
         "filename": "1276",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 8492,
@@ -609,13 +683,15 @@
         "id": 261,
         "url": "http://teaf.co.kr/wp-content/uploads/2021/05/TEAF20_e.pdf",
         "filename": "TEAF20_e.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 5468,
         "url": "https://world-heritage-watch.org/content/wp-content/uploads/2021/07/Press-release-Acropolis-20-07-2021.pdf",
         "filename": "Press-release-Acropolis-20-07-2021.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 9867,
@@ -627,19 +703,22 @@
         "id": 6426,
         "url": "https://www.ardenmarches.co.uk/wp-content/uploads/2021/05/APCM-MINS-SEPTEMBER-2020.pdf",
         "filename": "APCM-MINS-SEPTEMBER-2020.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7435,
         "url": "http://kpsskashmir.org/assets/UploadedMedia/PressReleases/PR_d9fbbd6d-ce8e-40db-878b-7b46d9f8d047.pdf",
         "filename": "PR_d9fbbd6d-ce8e-40db-878b-7b46d9f8d047.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 3051,
         "url": "https://www.metroalive.com/include/pdf/12311-catering.6.21.pdf",
         "filename": "12311-catering.6.21.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 5810,
@@ -651,7 +730,8 @@
         "id": 949,
         "url": "https://www.placentia.org/ArchiveCenter/ViewFile/Item/3303",
         "filename": "3303",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7038,
@@ -663,13 +743,15 @@
         "id": 3169,
         "url": "https://pnwjetaa.org/wp-content/uploads/2019/03/201807-Meeting-Minutes.pdf",
         "filename": "201807-Meeting-Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 783,
         "url": "https://www.gtwindowproducts.co.uk/forms/gtwindows_privacy_policy.pdf",
         "filename": "gtwindows_privacy_policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 7666,
@@ -681,67 +763,78 @@
         "id": 5123,
         "url": "https://nebula.wsimg.com/bfa17c3dea882c80684ff4a9003cad3f?AccessKeyId=4D80C20AC3EAFCCAC073&disposition=0&alloworigin=1",
         "filename": "bfa17c3dea882c80684ff4a9003cad3f?AccessKeyId=4D80C20AC3EAFCCAC073&disposition=0&alloworigin=1",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1842,
         "url": "http://nwfpd.org/wp-content/uploads/2021/06/NWFPD-2021-01-13-Approved-Meeting-Minutes.pdf",
         "filename": "NWFPD-2021-01-13-Approved-Meeting-Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 9486,
         "url": "https://lincolncountysd.org/ArchiveCenter/ViewFile/Item/1166",
         "filename": "1166",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1439,
         "url": "https://gesda.global/wp-content/uploads/2021/07/GESDA-Press-Release-19-July-2021_final.pdf",
         "filename": "GESDA-Press-Release-19-July-2021_final.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 3128,
         "url": "https://nebula.wsimg.com/625ca9b1c77b32984a0e8d19691e9c49?AccessKeyId=9D1AC056039B307D4B66&disposition=0&alloworigin=1",
         "filename": "625ca9b1c77b32984a0e8d19691e9c49?AccessKeyId=9D1AC056039B307D4B66&disposition=0&alloworigin=1",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3542,
         "url": "https://nursing.ohio.gov/wp-content/uploads/2019/08/RetreatMinutes2017_8.0.pdf",
         "filename": "RetreatMinutes2017_8.0.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 9556,
         "url": "https://appleshaworguk.files.wordpress.com/2021/04/8-november-2012.pdf",
         "filename": "8-november-2012.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6747,
         "url": "https://secureservercdn.net/50.62.88.87/lze.905.myftpupload.com/wp-content/uploads/2021/06/2021-5-Fleet-Captain-Meeting-Minutes.pdf?time=1626921215",
         "filename": "2021-5-Fleet-Captain-Meeting-Minutes.pdf?time=1626921215",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5556,
         "url": "https://www.horsham.community/wp-content/uploads/2019/04/Minutes-of-HTCP-Meeting-3.4.19-Final-Draft.pdf",
         "filename": "Minutes-of-HTCP-Meeting-3.4.19-Final-Draft.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2442,
         "url": "https://collegeofdietitians.org/cdo-masterpage/meetings-and-hearings/past-meetings/council-meeting-minutes-march-25,-2021-cpmfa-(3).aspx",
         "filename": "council-meeting-minutes-march-25,-2021-cpmfa-(3).aspx",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 3254,
         "url": "https://www.pinnacle.bank/pdf/news_files_ADA/Q1_2021_press_release_ADA.pdf",
         "filename": "Q1_2021_press_release_ADA.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 2787,
@@ -753,421 +846,491 @@
         "id": 8488,
         "url": "https://townofwrightsvillebeach.com/AgendaCenter/ViewFile/Minutes/_05132021-382",
         "filename": "_05132021-382",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9616,
         "url": "https://tompkinsdc.org/wp-content/uploads/2012/01/IDA-Audit-Minutes-032217.pdf",
         "filename": "IDA-Audit-Minutes-032217.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6001,
         "url": "https://truenorthadvisors.com/wp-content/uploads/2021/04/2021-True-North-Privacy-Policy.pdf",
         "filename": "2021-True-North-Privacy-Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 790,
         "url": "https://kilmelford.com/council_archive/2011-02%20Minutes.pdf?t=2339",
         "filename": "2011-02%20Minutes.pdf?t=2339",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7389,
         "url": "http://www.gmrf.com.au/documents/Minutes_2021Mar.pdf",
         "filename": "Minutes_2021Mar.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 909,
         "url": "http://www.otsegotownship.org/Portals/1046/Township%20minutes/2017%20minutes/2017%20January.pdf?ver=MxgBbERr8ra00BH3M2EMcw%3D%3D",
         "filename": "2017%20January.pdf?ver=MxgBbERr8ra00BH3M2EMcw%3D%3D",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6150,
         "url": "https://matrix.global/wp-content/uploads/2021/06/Oiltanking-Karimun-and-Matrix-Global-Press-Release-June-22-2021.pdf",
         "filename": "Oiltanking-Karimun-and-Matrix-Global-Press-Release-June-22-2021.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 4766,
         "url": "https://www.whitenotleyfaulkbournepc.org.uk/council/whitenotley/minutes/Minutes%20September%202020.pdf?pvd=1606400180",
         "filename": "Minutes%20September%202020.pdf?pvd=1606400180",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2055,
         "url": "https://mountnessingparishcouncil.files.wordpress.com/2021/06/minutes-11-jan-2021.pdf",
         "filename": "minutes-11-jan-2021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 732,
         "url": "https://investor.coopercos.com/node/23826/pdf",
         "filename": "pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 451,
         "url": "https://woodbuffalocn.iqm2.com/Citizens/FileOpen.aspx?Type=12&ID=1565&Inline=True",
         "filename": "FileOpen.aspx?Type=12&ID=1565&Inline=True",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 585,
         "url": "https://www.navajonationcouncil.org/wp-content/uploads/2020/09/10FEB2020_NABI_Worksession_Agenda.pdf",
         "filename": "10FEB2020_NABI_Worksession_Agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 8932,
         "url": "https://aedifica.eu/wp-content/uploads/2020/08/MC_CP2017-2018_EN_Azurit-signing_2018-06-04b_BB_LVsec.pdf",
         "filename": "MC_CP2017-2018_EN_Azurit-signing_2018-06-04b_BB_LVsec.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 9623,
         "url": "https://www.dalston.org.uk/council/minutes/2021/369-21-05/file",
         "filename": "file",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3479,
         "url": "http://www.grovelandtownship.com/uploads/1/0/2/3/10235147/jan2019_meetingminutes.pdf",
         "filename": "jan2019_meetingminutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 236,
         "url": "https://norwichartscentre.co.uk/wp-content/uploads/2021/06/Bar-menu-60b6142b78650.pdf",
         "filename": "Bar-menu-60b6142b78650.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 5551,
         "url": "http://hlara.org/documents/minutes/minutes_2020-11-19.pdf",
         "filename": "minutes_2020-11-19.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1798,
         "url": "https://seattle.legistar.com/View.ashx?M=A&ID=873184&GUID=AAE4931F-C2F4-4A28-8778-A2EFC658781E",
         "filename": "View.ashx?M=A&ID=873184&GUID=AAE4931F-C2F4-4A28-8778-A2EFC658781E",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 8316,
         "url": "http://reunioneastcdd.vglobaltech.com/wp-content/uploads/2019/04/re_030818_agenda.pdf",
         "filename": "re_030818_agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7972,
         "url": "https://centuria-wi.org/wp-content/uploads/2014/03/021014-Minutes.pdf",
         "filename": "021014-Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1362,
         "url": "https://www.mchdt.org/wp-content/uploads/Updated-AGenda.pdf",
         "filename": "Updated-AGenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5279,
         "url": "https://hartford-vt.org/AgendaCenter/ViewFile/ArchivedAgenda/_07132020-1664",
         "filename": "_07132020-1664",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 2755,
         "url": "https://longbeach.legistar.com/View.ashx?M=A&ID=879637&GUID=ABCFCA5B-797B-4DC5-BA4F-929E352AC877",
         "filename": "View.ashx?M=A&ID=879637&GUID=ABCFCA5B-797B-4DC5-BA4F-929E352AC877",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3220,
         "url": "https://www.cvag.org/agendas/admin/exec/execagn_06-28-21.pdf",
         "filename": "execagn_06-28-21.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1091,
         "url": "https://nebula.wsimg.com/457114329b57ae0e7633211cec53ce5c?AccessKeyId=3902D5FF5C6A88146946&disposition=0&alloworigin=1",
         "filename": "457114329b57ae0e7633211cec53ce5c?AccessKeyId=3902D5FF5C6A88146946&disposition=0&alloworigin=1",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6342,
         "url": "https://aacog.com/ArchiveCenter/ViewFile/Item/56",
         "filename": "Item",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4235,
         "url": "https://evogov.s3.us-west-2.amazonaws.com/meetings/101/minutes/8475.pdf",
         "filename": "8475.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 2780,
         "url": "https://pub-victoria.escribemeetings.com/FileStream.ashx?DocumentId=11253",
         "filename": "FileStream.ashx?DocumentId=11253",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3478,
         "url": "https://www.thebluelioncynwyd.co.uk/wp-content/uploads/2021/07/Dessert-menu.pdf",
         "filename": "Dessert-menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4577,
         "url": "https://www.edulingo.de/data/buchungspdfs/buckswood-school-1_1.pdf",
         "filename": "buckswood-school-1_1.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 4866,
         "url": "https://a2gov.legistar.com/View.ashx?M=A&ID=829775&GUID=F2E744E3-330B-4E99-9B18-FFE7070F7089",
         "filename": "View.ashx?M=A&ID=829775&GUID=F2E744E3-330B-4E99-9B18-FFE7070F7089",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1590,
         "url": "https://content.tdr.dss.husqvarnagroup.net/pub000063226/doc000109577",
         "filename": "doc000109577",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 2867,
         "url": "http://www.ncmaf.net/uploads/4/8/5/7/48573933/ncmaf_excom_-_davis_lance.pdf",
         "filename": "ncmaf_excom_-_davis_lance.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 9372,
         "url": "https://www.sssihl.edu.in/wp-content/uploads/2019/09/SSSIHL-Syllabus-BA-Optional_English-v2.pdf",
         "filename": "SSSIHL-Syllabus-BA-Optional_English-v2.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": true
     },
     {
         "id": 7280,
         "url": "https://tetburyu3a.org.uk/wp-content/uploads/2021/04/February-minutes.pdf",
         "filename": "February-minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5127,
         "url": "https://knox.utoronto.ca/wp-content/uploads/2020/07/KNP5021_20209_-Culture-and-Practical-Ministry_Syllabus.pdf",
         "filename": "KNP5021_20209_-Culture-and-Practical-Ministry_Syllabus.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": true
     },
     {
         "id": 8261,
         "url": "https://ieatask33.org/download.php?file=files/file/minutes_and_presentations/Brussels_Mar2007/Brussels_Minutes.pdf",
         "filename": "Brussels_Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2099,
         "url": "https://county.milwaukee.gov/files/county/ethics-board/Minutes/020421EBMinutesApproved.pdf",
         "filename": "020421EBMinutesApproved.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5635,
         "url": "https://www.cityofredbud.org/uploads/3/8/4/1/38410823/cultural_05172021.pdf",
         "filename": "cultural_05172021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 5842,
         "url": "https://eastrockawayschools.org/boardofeducation/GetFile.aspx?id=32183",
         "filename": "GetFile.aspx?id=32183",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 2918,
         "url": "http://portmoakcw.org.uk/Meetings/2021_04.pdf",
         "filename": "2021_04.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1609,
         "url": "https://www.wfw.com/people/george-garthwaite/?format=pdf",
         "filename": "?format=pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 3809,
         "url": "http://aosdana.artscouncil.ie/wp-content/uploads/2017/09/Minutes-7-Nov-2014-1.pdf",
         "filename": "Minutes-7-Nov-2014-1.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6285,
         "url": "https://waukee.org/AgendaCenter/ViewFile/Agenda/_04152021-761",
         "filename": "_04152021-761",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 8582,
         "url": "https://slco.legistar.com/View.ashx?M=A&ID=744472&GUID=29ADFA1B-6D1D-44E7-9345-578A0ED0BA51",
         "filename": "View.ashx?M=A&ID=744472&GUID=29ADFA1B-6D1D-44E7-9345-578A0ED0BA51",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6880,
         "url": "https://walkersgreencdd.com/wp-content/uploads/2021/05/wg-2-02-21-draft-meeting-agenda.pdf",
         "filename": "wg-2-02-21-draft-meeting-agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2277,
         "url": "https://www.mauicounty.gov/ArchiveCenter/ViewFile/Item/28047",
         "filename": "28047",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9890,
         "url": "http://kcemss.org/files/agenda-5.27.2021.pdf",
         "filename": "agenda-5.27.2021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 708,
         "url": "http://www.lenkladner.com/wp-content/uploads/2020/05/Privacy-Statement-Final-2020-new.pdf",
         "filename": "Privacy-Statement-Final-2020-new.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 7649,
         "url": "https://www.townofaberdeen.net/files/documents/Work_Session_-_May_3__2012_-_Town_BoardAgenda_05-03-2012_041936.pdf",
         "filename": "Work_Session_-_May_3__2012_-_Town_BoardAgenda_05-03-2012_041936.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2154,
         "url": "https://concordma.gov/AgendaCenter/ViewFile/Minutes/_01122021-8321",
         "filename": "_01122021-8321",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9610,
         "url": "https://lapd-assets.lapdonline.org/assets/pdf/101916.pdf",
         "filename": "101916.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1070,
         "url": "https://cms1files.revize.com/springfieldtwp/Reg_Mtg_Agenda-June_2021.pdf",
         "filename": "Reg_Mtg_Agenda-June_2021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1969,
         "url": "https://orgalim.eu/sites/default/files/2021-07/Malte%20Lohan%20bio_July2021.pdf",
         "filename": "Malte%20Lohan%20bio_July2021.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 7817,
         "url": "https://hpca.gov/ArchiveCenter/ViewFile/Item/3839",
         "filename": "3839",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4703,
         "url": "https://sofarcohesivestrategy.org/wp-content/uploads/2020/01/27_2-12-202-Agenda-SOFAR-Collaborative.pdf",
         "filename": "27_2-12-202-Agenda-SOFAR-Collaborative.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 3351,
         "url": "https://www.lagunabeachcity.net/civicax/filebank/blobdload.aspx?blobid=18037",
         "filename": "blobdload.aspx?blobid=18037",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 8917,
         "url": "https://asmaraqamar.files.wordpress.com/2021/06/aqd-privacy-notice.pdf",
         "filename": "aqd-privacy-notice.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 8416,
         "url": "https://evogov.s3.us-west-2.amazonaws.com/meetings/101/agendas/16870.pdf",
         "filename": "16870.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6870,
         "url": "https://www.ntta.org/whatwedo/meetings/brdmtg/Documents/2021/2021%20FINAL%20Mid-Year%20Board%20retreat%20agenda.pdf",
         "filename": "2021%20FINAL%20Mid-Year%20Board%20retreat%20agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7424,
         "url": "https://longbeach.legistar.com/View.ashx?M=A&ID=874287&GUID=6FFDAC4F-3724-4BA7-8387-8D48499219B0",
         "filename": "View.ashx?M=A&ID=874287&GUID=6FFDAC4F-3724-4BA7-8387-8D48499219B0",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1167,
         "url": "https://www.larchmontvillagebid.com/wp-content/uploads/2021/07/LVBIDBoardMeeting_july2021_agendaRevFinal.pdf",
         "filename": "LVBIDBoardMeeting_july2021_agendaRevFinal.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 9306,
         "url": "https://campussuite-storage.s3.amazonaws.com/prod/1558777/3b0c4bc8-a71c-11e9-a7a5-126646a0fc62/2261972/b8c0c8aa-b282-11eb-aadc-0e15d528a7fb/file/WL%2004-12-2021%20Meeting%20Minutes.pdf",
         "filename": "WL%2004-12-2021%20Meeting%20Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 4877,
         "url": "https://milton-keynes.cmis.uk.com/milton-keynes/Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=sqIV5qlNggBb0mG613TWOIu%2FLt6IEcpSwLyKHhwVCLmXADvIYnk62Q%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D",
         "filename": "Document.ashx?czJKcaeAi5tUFL1DTL2UE4zNRBcoShgo=sqIV5qlNggBb0mG613TWOIu%2FLt6IEcpSwLyKHhwVCLmXADvIYnk62Q%3D%3D&rUzwRPf%2BZ3zd4E7Ikn8Lyw%3D%3D=pwRE6AGJFLDNlh225F5QMaQWCtPHwdhUfCZ%2FLUQzgA2uL5jNRG4jdQ%3D%3D&mCTIbCubSFfXsDGW9IXnlg%3D%3D=hFflUdN3100%3D&kCx1AnS9%2FpWZQ40DXFvdEw%3D%3D=hFflUdN3100%3D&uJovDxwdjMPoYv%2BAJvYtyA%3D%3D=ctNJFf55vVA%3D&FgPlIEJYlotS%2BYGoBi5olA%3D%3D=NHdURQburHA%3D&d9Qjj0ag1Pd993jsyOJqFvmyB7X0CSQK=ctNJFf55vVA%3D&WGewmoAfeNR9xqBux0r1Q8Za60lavYmz=ctNJFf55vVA%3D&WGewmoAfeNQ16B2MHuCpMRKZMwaG1PaO=ctNJFf55vVA%3D",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4693,
         "url": "https://www.morawa.wa.gov.au/documents/11731/september-2020-agenda-special-council-meeting",
         "filename": "september-2020-agenda-special-council-meeting",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7754,
         "url": "https://www.irishpilgrimagetrust.com/Portals/0/Forms/Social%20Media%20Mobile%20Devices%20Policy%20Version%201%20January%202015.pdf?ver=2019-05-23-172114-570",
         "filename": "Social%20Media%20Mobile%20Devices%20Policy%20Version%201%20January%202015.pdf?ver=2019-05-23-172114-570",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 627,
         "url": "https://www.spacecoastna.org/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=71&wpfd_file_id=834&token=&preview=1",
         "filename": "admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=71&wpfd_file_id=834&token=&preview=1",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4438,
         "url": "https://www.las-cruces.org/AgendaCenter/ViewFile/Agenda/_02022021-974?packet=true",
         "filename": "_02022021-974?packet=true",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6926,
         "url": "http://meltonrotary.org.uk/Members/Notes/Minutes%20Jun%2018%20Youth.pdf",
         "filename": "Minutes%20Jun%2018%20Youth.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1679,
         "url": "https://memiq.ro/download/Course%20-%20Java%20Enterprise%20Design%20Patterns.pdf",
         "filename": "Course%20-%20Java%20Enterprise%20Design%20Patterns.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": true
     },
     {
         "id": 9218,
@@ -1179,55 +1342,64 @@
         "id": 2808,
         "url": "https://www.antarespharma.com/application/files/6416/2203/1972/ATRS_Jefferies_Healthcare_Conference_June_2021_FINAL.pdf",
         "filename": "ATRS_Jefferies_Healthcare_Conference_June_2021_FINAL.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 7465,
         "url": "http://45.79.65.181/wp-content/uploads/2021/05/050218specialboardmeeting.pdf",
         "filename": "050218specialboardmeeting.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 97,
         "url": "https://www.euxtoncouncil.org.uk/uploads/fullCouncilDocuments/files/18%20April%202019-m.pdf",
         "filename": "18%20April%202019-m.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9796,
         "url": "https://www.sysdschools.org/cms/lib/CA02206824/Centricity/Domain/4/Agenda%206.10.21.pdf",
         "filename": "Agenda%206.10.21.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 8648,
         "url": "https://www.natrona.net/AgendaCenter/ViewFile/Agenda/_02162021-770",
         "filename": "_02162021-770",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7632,
         "url": "https://www.mauicounty.gov/ArchiveCenter/ViewFile/Item/8242",
         "filename": "8242",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4139,
         "url": "https://www.mauicounty.gov/ArchiveCenter/ViewFile/Item/9109",
         "filename": "9109",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 8046,
         "url": "https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1131&context=capc_mins",
         "filename": "viewcontent.cgi?article=1131&context=capc_mins",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 1912,
         "url": "https://stainlanddistrictparishcouncil.org/wp-content/uploads/2020/11/18.11.20-14th-Environmental-Cttee-Agenda.pdf",
         "filename": "18.11.20-14th-Environmental-Cttee-Agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 418,
@@ -1239,31 +1411,36 @@
         "id": 4692,
         "url": "http://ilqccca.org/ILQCCCA/files/5c/5cfffabf-3617-480a-8009-b7bd1e9547b9.pdf",
         "filename": "5cfffabf-3617-480a-8009-b7bd1e9547b9.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 2486,
         "url": "https://ncpasharepointservice20161117100057.azurewebsites.net/api/document?uri=https://ncpapwr.sharepoint.com/sites/publicdocs/CommitteeMeetings/Nominating_Committee_Minutes_062719.pdf",
         "filename": "Nominating_Committee_Minutes_062719.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5792,
         "url": "http://spirit-lake.isfis.net/sites/spirit-lake.isfis.net/files/regular_meeting_agenda_6-14-21.pdf",
         "filename": "regular_meeting_agenda_6-14-21.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2271,
         "url": "http://fertilityupdates.com/pdfs/biographies/03_barritt_biography.pdf",
         "filename": "03_barritt_biography.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 2837,
         "url": "https://governance.sou.edu/wp-content/uploads/sites/63/2021/06/Minutes_FINAL-2.pdf",
         "filename": "Minutes_FINAL-2.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6905,
@@ -1275,43 +1452,50 @@
         "id": 8618,
         "url": "https://blairnebraska.org/ArchiveCenter/ViewFile/Item/566",
         "filename": "566",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4641,
         "url": "https://becity.org/wp-content/uploads/2021/06/6-7-21-Council-Meeting.pdf",
         "filename": "6-7-21-Council-Meeting.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1852,
         "url": "http://ardsleystation.com/wp-content/uploads/sites/32/2021/07/New_Menu_Final_Layout_7.21.21_FINAL.pdf",
         "filename": "New_Menu_Final_Layout_7.21.21_FINAL.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 653,
         "url": "https://smiddleton.com/AgendaCenter/ViewFile/Minutes/_05202021-127",
         "filename": "_05202021-127",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6731,
         "url": "https://noesis.crifst.ro/wp-content/uploads/revista/2012/2012_2_08.pdf",
         "filename": "2012_2_08.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 6946,
         "url": "http://www.salgfmg.com.au/index.php/resource-library/committee-agendas-minutes/554-minutes-20-november-2020-fmg-executive-committee-pdf/file",
         "filename": "file",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7623,
         "url": "http://scandinaviandayil.com/docs/2021_Scandinavian_Day_Sponsorship_Form.pdf?1",
         "filename": "2021_Scandinavian_Day_Sponsorship_Form.pdf?1",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 2766,
@@ -1323,55 +1507,64 @@
         "id": 3132,
         "url": "https://www.oregonlegislature.gov/senaterepublicans/Documents/ZIP%20Codes%20Should%20Not%20Determine%20Students%20Education.pdf",
         "filename": "ZIP%20Codes%20Should%20Not%20Determine%20Students%20Education.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 8824,
         "url": "https://support-public.cfm.quest.com/59439_ApexSQL_Search_2021.x_Release_Notes_and_Requirements.pdf",
         "filename": "59439_ApexSQL_Search_2021.x_Release_Notes_and_Requirements.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 1954,
         "url": "https://www.gourmetfoodparlour.com/cmsfiles/Updated-Outdoor-Brunch-Menu-2021-07.07.2021-Salthill.pdf",
         "filename": "Updated-Outdoor-Brunch-Menu-2021-07.07.2021-Salthill.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 1168,
         "url": "https://ieatask33.org/download.php?file=files/file/minutes_and_presentations/Dresden_Jun2006/Dresden_Minutes.pdf",
         "filename": "Dresden_Minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 3392,
         "url": "https://investors.allfunds.com/documents/Allfunds%20Group%20plc%20-%20Home%20Member%20State%20Declaration%20vF.pdf",
         "filename": "Allfunds%20Group%20plc%20-%20Home%20Member%20State%20Declaration%20vF.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 5813,
         "url": "https://www.natrona.net/AgendaCenter/ViewFile/Agenda/_02182021-762",
         "filename": "_02182021-762",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 334,
         "url": "https://nwculaw.edu/pdf/Meredith_Allen.pdf",
         "filename": "Meredith_Allen.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 4128,
         "url": "https://secureservercdn.net/50.62.88.172/wh6.bce.myftpupload.com/wp-content/uploads/2021/07/Food-Menu-7.21.pdf",
         "filename": "Food-Menu-7.21.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 2724,
         "url": "http://bungayndp.org.uk/Minutes%20BNPG%20March%202017.pdf",
         "filename": "Minutes%20BNPG%20March%202017.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2474,
@@ -1383,19 +1576,22 @@
         "id": 5801,
         "url": "https://glideaway.com/wp-content/uploads/2020/09/2018.10.3_Maunal_Vesta.pdf",
         "filename": "2018.10.3_Maunal_Vesta.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9617,
         "url": "https://townofmurray.org/wp-content/uploads/2021/05/November-2019-Board-Meeting.pdf",
         "filename": "November-2019-Board-Meeting.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1950,
         "url": "https://www.cranfield.ac.uk/-/media/files/bee-minutes/bee-board-minutes-26-march-2019.ashx?la=en&hash=C34D3E69E3577E4245BDCD883C627D3144CE806C",
         "filename": "bee-board-minutes-26-march-2019.ashx?la=en&hash=C34D3E69E3577E4245BDCD883C627D3144CE806C",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6444,
@@ -1407,7 +1603,8 @@
         "id": 7284,
         "url": "https://gscs-b2c.lge.com/downloadFile?fileId=KROWM000269649.pdf",
         "filename": "downloadFile?fileId=KROWM000269649.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 379,
@@ -1431,49 +1628,57 @@
         "id": 4136,
         "url": "https://www.hutch-med.com/wp-content/uploads/2021/07/a210701.pdf",
         "filename": "a210701.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 3389,
         "url": "https://celloproducts.com/pricelists/Canadian/pdf/DielectricsCANADA9.pdf",
         "filename": "DielectricsCANADA9.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": false
     },
     {
         "id": 5042,
         "url": "https://g-cats.com.au/wp-content/uploads/2019/05/Project-2019-Introduction-Intermediate.pdf",
         "filename": "Project-2019-Introduction-Intermediate.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 5971,
         "url": "https://www.swlstg.nhs.uk/documents/publications/corporate-documents/board-papers/2016-2/401-11-board-papers-november-2016/file",
         "filename": "file",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 2151,
         "url": "https://crazykong.com/manuals/AlpineRacer2.man.pdf",
         "filename": "AlpineRacer2.man.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 4956,
         "url": "https://www.navajonationcouncil.org/wp-content/uploads/2020/09/NNC_partners_with_US_Dept_of_Veterans_Affairs_to_offer_benefits_for_Navajo_veterans.pdf",
         "filename": "NNC_partners_with_US_Dept_of_Veterans_Affairs_to_offer_benefits_for_Navajo_veterans.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 1702,
         "url": "https://carnivalmemphis.org/wp-content/uploads/2016/08/11-Carnival-Mag-KING-Carnival-Memphis.pdf",
         "filename": "11-Carnival-Mag-KING-Carnival-Memphis.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 8243,
         "url": "https://woodlands.lib.mi.us/wp-content/uploads/2021/06/June-Council-Agenda.pdf",
         "filename": "June-Council-Agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 4102,
@@ -1485,25 +1690,29 @@
         "id": 4774,
         "url": "https://www.whittlelewoodsparishcouncil.org.uk/uploads/documents/files/2021%2004%20MPCM%20minutes.pdf",
         "filename": "2021%2004%20MPCM%20minutes.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2844,
         "url": "https://somervillerec.com/forms/5498_scholarship_program.sliding_scale_fee.pdf",
         "filename": "5498_scholarship_program.sliding_scale_fee.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 462,
         "url": "https://reginask.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2633&Inline=True",
         "filename": "FileOpen.aspx?Type=1&ID=2633&Inline=True",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4274,
         "url": "https://anacorteswa.gov/DocumentCenter/View/15838/Concealed-Pistol-License-Application?bidId=",
         "filename": "Concealed-Pistol-License-Application?bidId=",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 7991,
@@ -1515,19 +1724,22 @@
         "id": 3748,
         "url": "https://hoseikyoiku.jp/images/syllabus/1621404357/1621404357_101.pdf",
         "filename": "1621404357_101.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 8389,
         "url": "https://explore-glazing.nl/_uploads/files/Pricelist%20Explore%20Glazing%20Suzuki%20FJ%2006-2021.pdf",
         "filename": "Pricelist%20Explore%20Glazing%20Suzuki%20FJ%2006-2021.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 5159,
         "url": "https://img1.wsimg.com/blobby/go/5331c3ff-a05e-405f-a910-76bb88a28a8e/downloads/DOI%20DOL%20brochure%20Agilizing.pdf?ver=1624695960852",
         "filename": "DOI%20DOL%20brochure%20Agilizing.pdf?ver=1624695960852",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 7160,
@@ -1539,19 +1751,22 @@
         "id": 6406,
         "url": "https://thestirlingclub.com/wp-content/uploads/2021/05/Poolside-Cocktails-2021.pdf",
         "filename": "Poolside-Cocktails-2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 4981,
         "url": "https://legis.la.gov/Legis/ViewDocument.aspx?d=1218532",
         "filename": "ViewDocument.aspx?d=1218532",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 9857,
         "url": "https://d3n8a8pro7vhmx.cloudfront.net/hearstelementary/pages/67/attachments/original/1620261627/LSAT_minutes_4_28_21.pdf?1620261627",
         "filename": "LSAT_minutes_4_28_21.pdf?1620261627",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1956,
@@ -1569,7 +1784,8 @@
         "id": 3691,
         "url": "https://mms.brickschools.org/Portals/1/ARCHIVE/2020/12.%20OCTOBER%2022%202020%20SPECIAL%20MEETING%20MINUTES.pdf",
         "filename": "12.%20OCTOBER%2022%202020%20SPECIAL%20MEETING%20MINUTES.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 5897,
@@ -1581,25 +1797,29 @@
         "id": 4141,
         "url": "https://cms.ocgov.com/civicax/filebank/blobdload.aspx?BlobID=119760",
         "filename": "blobdload.aspx?BlobID=119760",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6666,
         "url": "https://a8aadfd0-2c91-4839-9a4d-936ea451f1cd.filesusr.com/ugd/adc37d_cffb662f99f94f6ca5df99cff047ffbe.pdf",
         "filename": "adc37d_cffb662f99f94f6ca5df99cff047ffbe.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 6199,
         "url": "https://www.arkleg.state.ar.us/Bills/FTPDocument?path=%2FBills%2F2009%2FPublic%2FHB1984%2FHB1984-033020091634.pdf",
         "filename": "FTPDocument?path=%2FBills%2F2009%2FPublic%2FHB1984%2FHB1984-033020091634.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 6350,
         "url": "https://www.senate.mo.gov/19info/bts_web/ShowAmendment.aspx?Id=1995",
         "filename": "ShowAmendment.aspx?Id=1995",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 329,
@@ -1611,7 +1831,8 @@
         "id": 6451,
         "url": "https://notg.pw/zuka.pdf",
         "filename": "zuka.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 6024,
@@ -1641,49 +1862,57 @@
         "id": 6022,
         "url": "https://awmsg.nhs.wales/files/awmsg-meetings/2019/agenda-awmsg-11-dec-19-pdf/",
         "filename": "agenda-awmsg-11-dec-19-pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7015,
         "url": "https://calibremining.com/site/assets/files/5794/2016-07-22_nr.pdf",
         "filename": "2016-07-22_nr.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 2643,
         "url": "https://stokeferryparishcouncil.co.uk/wp-content/uploads/2019/05/June-PC-Meeting-Agenda-19.pdf",
         "filename": "June-PC-Meeting-Agenda-19.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2433,
         "url": "https://www.ccbcmd.edu/~/media/CCBC/Programs%20and%20Courses/Common%20Course%20Outlines/Music/MUSC126.ashx",
         "filename": "MUSC126.ashx",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 5259,
         "url": "https://www.legis.state.pa.us/cfdocs/legis/PN/Public/btCheck.cfm?txtType=PDF&sessYr=2019&sessInd=0&billBody=S&billTyp=B&billNbr=1193&pn=1756",
         "filename": "btCheck.cfm?txtType=PDF&sessYr=2019&sessInd=0&billBody=S&billTyp=B&billNbr=1193&pn=1756",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 3500,
         "url": "https://img1.wsimg.com/blobby/go/db87af0b-b0d1-44cc-a697-15835bdc457d/downloads/CREDIT%20CARD%20AUTH%20FORM%20-%20UPDATED.pdf?ver=1620746113141",
         "filename": "CREDIT%20CARD%20AUTH%20FORM%20-%20UPDATED.pdf?ver=1620746113141",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 8908,
         "url": "https://www.legis.state.pa.us/CFDOCS/Legis/PN/Public/btCheck.cfm?txtType=PDF&sessYr=2019&sessInd=0&billBody=H&billTyp=B&billNbr=0627&pn=0622",
         "filename": "btCheck.cfm?txtType=PDF&sessYr=2019&sessInd=0&billBody=H&billTyp=B&billNbr=0627&pn=0622",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 5119,
         "url": "https://npca.ca/images/uploads/board_files/2021_AGM_AGENDA_PACKAGE_-_JUNE_18%2C_2021.pdf",
         "filename": "2021_AGM_AGENDA_PACKAGE_-_JUNE_18%2C_2021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6477,
@@ -1695,31 +1924,36 @@
         "id": 5570,
         "url": "https://www.mapleridge.ca/ArchiveCenter/ViewFile/Item/1639",
         "filename": "1639",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 7081,
         "url": "https://www.autoglym.sk/amfile/file/download/file/112/product/55/",
         "filename": "55",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 34,
         "url": "https://www.aihe.edu.au/uploads/4/5/6/5/45658683/hand_hygiene-_overview_doc.pdf",
         "filename": "hand_hygiene-_overview_doc.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 5241,
         "url": "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/HB2875/House%20Amendments%20to%20Introduced",
         "filename": "House%20Amendments%20to%20Introduced",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 2347,
         "url": "https://www.sigmaaldrich.com/US/en/sds/ALDRICH/W488401",
         "filename": "W488401",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 9703,
@@ -1731,25 +1965,29 @@
         "id": 136,
         "url": "https://www.sigmaaldrich.com/US/en/sds/ALDRICH/279676",
         "filename": "279676",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 9416,
         "url": "https://www.legis.la.gov/legis/ViewDocument.aspx?d=957417",
         "filename": "ViewDocument.aspx?d=957417",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 7586,
         "url": "https://www.cloverimaging.com/download/sds_base/129526",
         "filename": "129526",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 4682,
         "url": "https://greenearthhygiene.com.au/index.php?controller=attachment&id_attachment=29",
         "filename": "index.php?controller=attachment&id_attachment=29",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 5894,
@@ -1767,7 +2005,8 @@
         "id": 135,
         "url": "https://sds.exxonmobil.com/Download.aspx?ID=982770&docFormat=PDF",
         "filename": "Download.aspx?ID=982770&docFormat=PDF",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 5519,
@@ -1779,7 +2018,7 @@
         "id": 2925,
         "url": "https://www.bohlenderfuneralchapel.com/obituaries/Thomas-Johnston-4/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 6295,
@@ -1797,19 +2036,22 @@
         "id": 7221,
         "url": "https://birgerjarl.nu/wp-content/uploads/2021/07/drinkmeny_led_sommar2021.pdf",
         "filename": "drinkmeny_led_sommar2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 2526,
         "url": "https://www.gbhereford.co.uk/wp-content/uploads/2021/03/Job-Applicant-Privacy-Notice-2021-v2.0.pdf",
         "filename": "Job-Applicant-Privacy-Notice-2021-v2.0.pdf",
-        "category": "job_posting"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 8523,
         "url": "https://materion.com/api/materion/Msds/Download?fileName=G11_CUNA2SEO3%20TARGETS_SDS-China_English.pdf",
         "filename": "Download?fileName=G11_CUNA2SEO3%20TARGETS_SDS-China_English.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 7952,
@@ -1821,19 +2063,22 @@
         "id": 3560,
         "url": "https://banff.ca/AgendaCenter/ViewFile/ArchivedAgenda/_04202021-1566",
         "filename": "_04202021-1566",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4907,
         "url": "https://theablebutcher.ee/wp-content/uploads/2021/03/hilton-tallinn-park-banquet-kit.pdf",
         "filename": "hilton-tallinn-park-banquet-kit.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 575,
         "url": "https://sds.exxonmobil.com/Download.aspx?ID=958546&docFormat=PDF",
         "filename": "Download.aspx?ID=958546&docFormat=PDF",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 1872,
@@ -1845,25 +2090,29 @@
         "id": 2311,
         "url": "https://omnisub.com/wp-content/uploads/2021/05/OS_Preislisten_2021_Specialties_A4_EN.pdf",
         "filename": "OS_Preislisten_2021_Specialties_A4_EN.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": false
     },
     {
         "id": 5784,
         "url": "https://divergentadhesives.com/assets/ct610_sds.pdf",
         "filename": "ct610_sds.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 8856,
         "url": "https://smithcountyhabitat.org/wp-content/uploads/2020/09/pdf-news-tvc-grant-2020.pdf",
         "filename": "pdf-news-tvc-grant-2020.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 5193,
         "url": "http://www.drylok.com/products/drylok-latex-concrete-floor-paint/drylok-latex-concrete-floor-paint-white-light-tint-sds.pdf",
         "filename": "drylok-latex-concrete-floor-paint-white-light-tint-sds.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 5710,
@@ -1875,7 +2124,8 @@
         "id": 6243,
         "url": "https://www.geostar-geo.com/downloads/literature/IM1010CGB.pdf",
         "filename": "IM1010CGB.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 1304,
@@ -1893,25 +2143,29 @@
         "id": 7931,
         "url": "https://www.bentleymills.com/wp-content/uploads/2021/04/Adhesives-PermaWeld-Premium-Seam-Sealer-Safety-Data-Sheet-Bentley-2020.12.pdf",
         "filename": "Adhesives-PermaWeld-Premium-Seam-Sealer-Safety-Data-Sheet-Bentley-2020.12.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 376,
         "url": "https://dlz.reaper.fm/userguide/ReaperUserGuide630d.pdf",
         "filename": "ReaperUserGuide630d.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 6888,
         "url": "https://sds.exxonmobil.com/Download.aspx?ID=1009369&docFormat=PDF",
         "filename": "Download.aspx?ID=1009369&docFormat=PDF",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 1768,
         "url": "https://help.objectiflune.com/en/pres-connect-user-guide/2021.1/pres-connect-user-guide.pdf",
         "filename": "pres-connect-user-guide.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 7189,
@@ -1923,19 +2177,22 @@
         "id": 4574,
         "url": "https://www.utechproducts.com/assets/skin/utechproducts/msds/msds.php?sku=23512742",
         "filename": "msds.php?sku=23512742",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 187,
         "url": "https://sds.exxonmobil.com/Download.aspx?ID=735782&docFormat=PDF",
         "filename": "Download.aspx?ID=735782&docFormat=PDF",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 1149,
         "url": "https://1tumas266ir91zlaxe1w4fzc-wpengine.netdna-ssl.com/wp-content/uploads/2021/07/Excelsior_631C_SDS.pdf",
         "filename": "Excelsior_631C_SDS.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 5509,
@@ -1947,19 +2204,22 @@
         "id": 7796,
         "url": "https://www.townofmahonebay.ca/uploads/1/3/0/6/130665195/2021-03-30_meeting_minutes_policy_and_strategy_committee.pdf",
         "filename": "2021-03-30_meeting_minutes_policy_and_strategy_committee.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 540,
         "url": "https://fr.irfts.com/documentation/noticedemontageENshadowsolar_old.pdf",
         "filename": "noticedemontageENshadowsolar_old.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 9632,
         "url": "https://www.jordanwinery.com/wp-content/uploads/2021/04/Jordan-Winery-Pollinator-Press-Release-March-2021.pdf",
         "filename": "Jordan-Winery-Pollinator-Press-Release-March-2021.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 8409,
@@ -2001,7 +2261,8 @@
         "id": 5718,
         "url": "https://www.cusu.co.uk/wp-content/uploads/CUSU-Council-Minutes-Easter-I.pdf",
         "filename": "CUSU-Council-Minutes-Easter-I.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2304,
@@ -2013,7 +2274,8 @@
         "id": 810,
         "url": "https://www.navajonationcouncil.org/wp-content/uploads/2021/04/07APR2021_RDC_Reg_Teleconference_Mtg_Agenda.pdf",
         "filename": "07APR2021_RDC_Reg_Teleconference_Mtg_Agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 9485,
@@ -2025,7 +2287,7 @@
         "id": 5243,
         "url": "https://www.whartonfuneralchapel.com/obituaries/Frances-Brunsteter/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 9070,
@@ -2055,43 +2317,50 @@
         "id": 3689,
         "url": "https://secureservercdn.net/192.169.220.85/z9w.58b.myftpupload.com/wp-content/uploads/2021/06/Garden-Guide-Tomatoes-Organic-Late-Blight-Prevention-Web.pdf",
         "filename": "Garden-Guide-Tomatoes-Organic-Late-Blight-Prevention-Web.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 5600,
         "url": "https://mainelegislature.org/bills/getPDF.asp?paper=SP0018&item=3&snum=130",
         "filename": "getPDF.asp?paper=SP0018&item=3&snum=130",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 2976,
         "url": "https://www.akredistrict.org/files/6616/1481/2141/2021-Feb-26-Agenda.pdf",
         "filename": "2021-Feb-26-Agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2796,
         "url": "https://www.gisu.org/uploads/1/1/1/6/111679509/06072021agenda_packetalb.pdf",
         "filename": "06072021agenda_packetalb.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 1804,
         "url": "https://classroomfaces.com/wp-content/uploads/2021/06/order-form-class-of-full-color-11.pdf",
         "filename": "order-form-class-of-full-color-11.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 1560,
         "url": "https://api.capethoroughbredsales.com/Results/GetResultPdf?slug=CPYS&year=2017",
         "filename": "GetResultPdf?slug=CPYS&year=2017",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": false
     },
     {
         "id": 7417,
         "url": "https://vectorgroupltd.gcs-web.com/static-files/1c44f62d-6443-42ee-a2ba-80c398c1e7b6",
         "filename": "1c44f62d-6443-42ee-a2ba-80c398c1e7b6",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 5864,
@@ -2103,7 +2372,8 @@
         "id": 4308,
         "url": "https://firmware.grandstream.com/Release_Note_WP820_1.0.7.30.pdf",
         "filename": "Release_Note_WP820_1.0.7.30.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 865,
@@ -2127,7 +2397,7 @@
         "id": 4224,
         "url": "https://www.restlandfuneralhome.com/obituaries/Stephen-Steve-Smith-2/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 6048,
@@ -2139,19 +2409,22 @@
         "id": 7075,
         "url": "https://cdn.asp.events/CLIENT_Comexpos_0322E963_F4B5_73A7_0954F2A7F5928375/sites/IFE-2021/media/IFE%202021%20-%20Quad%20Form.pdf",
         "filename": "IFE%202021%20-%20Quad%20Form.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 3467,
         "url": "https://www.jao.eu/sites/default/files/2021-04/JAO-eCAT_e-terramarket%20ENTSO-E%20Capacity%20Auction%20-%20Participant%20User%20Guide....pdf",
         "filename": "JAO-eCAT_e-terramarket%20ENTSO-E%20Capacity%20Auction%20-%20Participant%20User%20Guide....pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 7380,
         "url": "https://www.schuylervilleschools.org/wp-content/uploads/2021/05/2021_22-Budget-Newsletter_FINAL.pdf",
         "filename": "2021_22-Budget-Newsletter_FINAL.pdf",
-        "category": "newletter"
+        "category": "newsletter",
+        "indicative": true
     },
     {
         "id": 4669,
@@ -2163,13 +2436,15 @@
         "id": 6837,
         "url": "http://murtonparish.org.uk/assets/files/March21.pdf",
         "filename": "March21.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9296,
         "url": "https://musicbeatscancer.org/wp-content/uploads/brunch-release-1.pdf",
         "filename": "brunch-release-1.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 6373,
@@ -2181,19 +2456,21 @@
         "id": 5526,
         "url": "https://documents.indium.com/qdynamo/download.php?docid=2214",
         "filename": "download.php?docid=2214",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 1800,
         "url": "https://www.bradfordmemorial.com/obituaries/Roy-Cooper-7/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 8840,
         "url": "https://vanilla47.com/PDFs/Cryptography/Cryptography/Introduction_to_Cryptography_Helger_Lipmaa.pdf",
         "filename": "Introduction_to_Cryptography_Helger_Lipmaa.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 6027,
@@ -2205,7 +2482,8 @@
         "id": 1429,
         "url": "https://www.ti.com/lit/ug/slau429/slau429.pdf?HQS=ti-null-null-productcentre-tls-evm-ElectronicSpecifier-eu&ts=1627391497757",
         "filename": "slau429.pdf?HQS=ti-null-null-productcentre-tls-evm-ElectronicSpecifier-eu&ts=1627391497757",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 7096,
@@ -2217,7 +2495,8 @@
         "id": 2999,
         "url": "https://activetec.com.au/resources/Restricted%20Height%20Scaffolding%2001%2011%2019.pdf",
         "filename": "Restricted%20Height%20Scaffolding%2001%2011%2019.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 8131,
@@ -2229,7 +2508,8 @@
         "id": 7596,
         "url": "https://williamsav.com/wp-content/uploads/2021/07/WIRTX6man.pdf",
         "filename": "WIRTX6man.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 8520,
@@ -2241,13 +2521,15 @@
         "id": 5546,
         "url": "https://london.ac.uk/sites/default/files/leaflets/Accommmodation-guide-ULiP.pdf",
         "filename": "Accommmodation-guide-ULiP.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9019,
         "url": "https://women.catholic.org.au/documents/melkite-eparchy/30-melkite-eparchy-rosemary-suliman/file",
         "filename": "file",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 3692,
@@ -2277,13 +2559,15 @@
         "id": 1208,
         "url": "http://easts.ca/wp-content/uploads/17-011_PaunchManagementMethods.pdf",
         "filename": "17-011_PaunchManagementMethods.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 3752,
         "url": "https://ucab10ddad60f66f9adfdbc22d77.dl.dropboxusercontent.com/cd/0/inline2/BTiCU7Lz1GJ_C7bZhPP-N1kremGq43Qn_l4zhY1b0TqdYtWxj4dlMSMCjxfH4ypNML2cx9I9dUTjm3Ds154Kstrpefkqb13jfDMVUT1AQt8ohAocclffsF9ay0_UTFKwBu8NVvQW8LRSA8EOmzcZFmotU-1u_ubDp1uUSeTef-u3PZ_NtE2At5nYKni2LqMS0RAtniRyR50CztCQ6WMjyUQfJst5_yiC3GnimozS1qGmA5-VbdGVNDuFChhDNUNd0u7bYIRs0A8i3zEwBqbgY7Rm5bG5zn_weXcfdW6way3biyWBpS7P7UyiTt5H12hbOYtLme5kH1zfMi3hwoDDYCZlnnunC4D-8nmpcCqT6yvWh5Wldj3W0BzqpZEKRarXzFQ/file",
         "filename": "file",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 3316,
@@ -2319,7 +2603,8 @@
         "id": 4507,
         "url": "https://31northbanquets.com/wp-content/uploads/31_north_2021_social_menu.pdf",
         "filename": "31_north_2021_social_menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4175,
@@ -2331,13 +2616,14 @@
         "id": 260,
         "url": "http://www.reycosystems.com/wp-content/uploads/2021/03/CFS-Pneumatic-Waste-Conveyance-Sanitation-SSOP-Guidance-Document.pdf",
         "filename": "CFS-Pneumatic-Waste-Conveyance-Sanitation-SSOP-Guidance-Document.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 2383,
         "url": "https://www.corlfuneralchapel.com/obituaries/Ching-Yu-Lin/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 2356,
@@ -2355,7 +2641,8 @@
         "id": 173,
         "url": "https://www.agriculture.senate.gov/imo/media/doc/99-198%20-%20Food%20Security%20Act%20Of%201985.pdf",
         "filename": "99-198%20-%20Food%20Security%20Act%20Of%201985.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 1109,
@@ -2385,7 +2672,7 @@
         "id": 5943,
         "url": "https://www.chancellorfuneralhome.com/obituaries/James-Petermann/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 9285,
@@ -2433,7 +2720,8 @@
         "id": 2541,
         "url": "https://employees.cmcss.net/misc/ViewISO?filename=HUM-A095.pdf",
         "filename": "ViewISO?filename=HUM-A095.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 2286,
@@ -2445,19 +2733,22 @@
         "id": 7902,
         "url": "https://pawlet.vt.gov/wp-content/uploads/2021/07/Special-Meeting-Warning-Notice-of-Public-Hearing-7.13.2021.pdf",
         "filename": "Special-Meeting-Warning-Notice-of-Public-Hearing-7.13.2021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6895,
         "url": "https://springervilleaz.gov/wp-content/uploads/sites/13/2021/01/tc-agenda-2018_09_19-2.pdf",
         "filename": "tc-agenda-2018_09_19-2.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 3995,
         "url": "https://www.halfpennygreen.co.uk/wp-content/uploads/2021/05/May-2021-Breakfast.pdf",
         "filename": "May-2021-Breakfast.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 2157,
@@ -2493,43 +2784,49 @@
         "id": 9894,
         "url": "https://bizezia.com/wp-content/uploads/2021/02/284-The-guide-to-starting-developing-and-expanding-a-Small-Food-Business-WEB.pdf",
         "filename": "284-The-guide-to-starting-developing-and-expanding-a-Small-Food-Business-WEB.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 6673,
         "url": "https://www.surrattlaw.com/wp-content/uploads/2021/06/2018.04.27-Nevada-Child-Support-Commission-Meeting-Minutes-1.pdf",
         "filename": "2018.04.27-Nevada-Child-Support-Commission-Meeting-Minutes-1.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 8651,
         "url": "https://hobsonenterprises.com/wp-content/uploads/2018/01/West-Side-Service-Center-Employment-Application-Form.pdf",
         "filename": "West-Side-Service-Center-Employment-Application-Form.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 9661,
         "url": "http://larrysmovers.com/forms/Employment_Application.pdf",
         "filename": "Employment_Application.pdf",
-        "category": "form"
+        "category": "job_posting",
+        "indicative": false
     },
     {
         "id": 5216,
         "url": "https://nebula.wsimg.com/3ccfbc82bbacfa423a6a2d1243c9a34f?AccessKeyId=2BA60AADD76A0B405141&disposition=0&alloworigin=1",
         "filename": "3ccfbc82bbacfa423a6a2d1243c9a34f?AccessKeyId=2BA60AADD76A0B405141&disposition=0&alloworigin=1",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 9868,
         "url": "https://www.pscleanair.gov/AgendaCenter/ViewFile/Agenda/_06172021-166",
         "filename": "_06172021-166",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7628,
         "url": "https://www.schoedinger.com/obituaries/Joanne-Johnson-12/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 5043,
@@ -2547,7 +2844,8 @@
         "id": 5484,
         "url": "https://campussuite-storage.s3.amazonaws.com/prod/1558850/0dcb6bc4-ea94-11e9-9458-0a20d2c7fac4/2013000/ce52a82a-0188-11ea-9557-12f81ec6675d/file/2019-04-02%20Chapel%20Creek%20CDD-Final%20Agenda.pdf",
         "filename": "2019-04-02%20Chapel%20Creek%20CDD-Final%20Agenda.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7324,
@@ -2559,7 +2857,8 @@
         "id": 5415,
         "url": "https://loennursery.com/wp-content/uploads/2020/08/Loen-Nursery-Job-Application-03-20-2020.pdf",
         "filename": "Loen-Nursery-Job-Application-03-20-2020.pdf",
-        "category": "job_posting"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 8711,
@@ -2571,13 +2870,15 @@
         "id": 7652,
         "url": "http://ssstaffingjobs.com/wp-content/uploads/2016/02/SSStaffing_Application.pdf",
         "filename": "SSStaffing_Application.pdf",
-        "category": "form"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 3466,
         "url": "https://uploads.documents.cimpress.io/v1/uploads/7f62b24e-51d7-48ae-b00a-59a6a4c411d7~110/original?tenant=vbu-digital",
         "filename": "original?tenant=vbu-digital",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7932,
@@ -2589,7 +2890,8 @@
         "id": 4005,
         "url": "https://www.academychilddevelopment.com/wp-content/uploads/2021/02/academy-employment-application.pdf",
         "filename": "academy-employment-application.pdf",
-        "category": "form"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 6496,
@@ -2607,13 +2909,15 @@
         "id": 8399,
         "url": "https://www.wcsdpa.org/site/handlers/filedownload.ashx?moduleinstanceid=25&dataid=116&FileName=08367%20Health%20Grade%203_New%20Template_May%204_2021.pdf",
         "filename": "filedownload.ashx?moduleinstanceid=25&dataid=116&FileName=08367%20Health%20Grade%203_New%20Template_May%204_2021.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 8422,
         "url": "https://amicoglobal.com/downloads/2021/2019-StayForm-Submittal.pdf",
         "filename": "2019-StayForm-Submittal.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 2663,
@@ -2625,13 +2929,15 @@
         "id": 6062,
         "url": "https://secureservercdn.net/198.71.233.229/vkp.220.myftpupload.com/wp-content/uploads/2020/06/Employment-Application-073015.pdf",
         "filename": "Employment-Application-073015.pdf",
-        "category": "form"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 7606,
         "url": "https://www.csilaboratories.com/wp-content/uploads/2021/05/Solid-Tumor-Requisition-Form_r43.pdf",
         "filename": "Solid-Tumor-Requisition-Form_r43.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 3756,
@@ -2673,13 +2979,15 @@
         "id": 9569,
         "url": "http://www.municipalaffairs.alberta.ca/documents/as/Guide%20to%20the%20Exchange%20of%20Assessment%20Information%202018.pdf",
         "filename": "Guide%20to%20the%20Exchange%20of%20Assessment%20Information%202018.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 3545,
         "url": "https://leg.colorado.gov/sites/default/files/documents/2021A/bills/2021a_256_01.pdf",
         "filename": "2021a_256_01.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 878,
@@ -2691,7 +2999,8 @@
         "id": 5879,
         "url": "https://petscortservices.net/wp-content/uploads/sites/2/2015/04/Petscort-Job-Application-final-copy.pdf",
         "filename": "Petscort-Job-Application-final-copy.pdf",
-        "category": "job_posting"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 2600,
@@ -2703,7 +3012,8 @@
         "id": 9731,
         "url": "https://www.aif.sm/site/en/home/legislation-in-force/documento50060819.html",
         "filename": "documento50060819.html",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 2609,
@@ -2715,67 +3025,78 @@
         "id": 6662,
         "url": "https://goldcoast.optumrx.com/content/dam/optum3/goldcoast/pdfs/Onglyza_GoldCoast.pdf",
         "filename": "Onglyza_GoldCoast.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 1015,
         "url": "https://www.chiaha.org/wp-content/uploads/Chiaha-online-app-21-1.pdf",
         "filename": "Chiaha-online-app-21-1.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 6042,
         "url": "https://subgen.vitra.com.tr/public/images/project/environmental-policy.pdf-1598596810.pdf-1616135997.pdf",
         "filename": "environmental-policy.pdf-1598596810.pdf-1616135997.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 6397,
         "url": "http://tuccisitalian.com/docs/Tuccis-Catering-Menu_AMC216906022021.pdf",
         "filename": "Tuccis-Catering-Menu_AMC216906022021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 7690,
         "url": "https://nebula.wsimg.com/1e3963992641df7e70ace16d46efb918?AccessKeyId=4ED3B3DEA8E93A46B86D&disposition=0&alloworigin=1",
         "filename": "1e3963992641df7e70ace16d46efb918?AccessKeyId=4ED3B3DEA8E93A46B86D&disposition=0&alloworigin=1",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 3493,
         "url": "https://idoidahoevents.com/wp-content/uploads/I-DO-wedding-planning-guide.pdf",
         "filename": "I-DO-wedding-planning-guide.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9700,
         "url": "http://cdp.org.za/press/Media%2001-09-2011.pdf",
         "filename": "Media%2001-09-2011.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 534,
         "url": "https://www.stmichaelschool.ca/wp-content/uploads/2018/11/Basketball-Consent-forms-2018.pdf",
         "filename": "Basketball-Consent-forms-2018.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 166,
         "url": "https://sub.bvresources.com/press/HCCompGuide1-13.pdf",
         "filename": "HCCompGuide1-13.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 8579,
         "url": "http://cmtrailer.co.nz/sites/all/themes/cmtrailer/files/CM-Trailer-Equipment-Ltd-Terms-and-Conditions.pdf",
         "filename": "CM-Trailer-Equipment-Ltd-Terms-and-Conditions.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 1034,
         "url": "https://www.legislation.qld.gov.au/view/pdf/asmade/act-2002-043",
         "filename": "act-2002-043",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 2190,
@@ -2787,7 +3108,8 @@
         "id": 5563,
         "url": "https://jswsteel.us/baytown/pdf/sales-terms-and-conditions.pdf",
         "filename": "sales-terms-and-conditions.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 2720,
@@ -2799,7 +3121,8 @@
         "id": 7851,
         "url": "https://toolkit.ncwwi.org/worksheets/worksheet3dA2_MeetingMethods.pdf",
         "filename": "worksheet3dA2_MeetingMethods.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 4332,
@@ -2811,7 +3134,8 @@
         "id": 3162,
         "url": "https://www.bics.com/wp-content/uploads/2021/07/General-terms.pdf",
         "filename": "General-terms.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 2591,
@@ -2841,13 +3165,15 @@
         "id": 7485,
         "url": "http://segalandassociates.com/Documents/Radio-Shack-Manuals/FRS/FRS-108-owners-manual.pdf",
         "filename": "FRS-108-owners-manual.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 1657,
         "url": "https://rules.house.gov/sites/democrats.rules.house.gov/files/BILLS-117-RCP117-12.pdf",
         "filename": "BILLS-117-RCP117-12.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 6713,
@@ -2859,13 +3185,15 @@
         "id": 3880,
         "url": "https://dinuba.org/images/docs/forms/Dinuba_Tranit%20Guide.pdf",
         "filename": "Dinuba_Tranit%20Guide.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9582,
         "url": "https://bmylake.hu/docs/gtc-2021-06-01.pdf",
         "filename": "gtc-2021-06-01.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 556,
@@ -2877,7 +3205,8 @@
         "id": 3679,
         "url": "http://www.cocweb.org/uploads/6/9/4/4/6944409/week_1_-_ethics_-_introduction.pdf",
         "filename": "week_1_-_ethics_-_introduction.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 6167,
@@ -2895,13 +3224,15 @@
         "id": 7650,
         "url": "https://okty-public-cdn.s3-us-west-2.amazonaws.com/www.okty.app/documents/OkTY+Terms+%26+Conditions.pdf",
         "filename": "OkTY+Terms+%26+Conditions.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 8545,
         "url": "https://www.revisor.mn.gov/laws/1963/0/Session+Law/Chapter/530/pdf/",
         "filename": "pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 6932,
@@ -2913,19 +3244,22 @@
         "id": 8100,
         "url": "https://www.pathologyconsultants.org/Forms/Supply_Order_Form.pdf",
         "filename": "Supply_Order_Form.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 7427,
         "url": "https://sagrivasukisubramanya.org/terms_conditions_privacy_policy.pdf",
         "filename": "terms_conditions_privacy_policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 904,
         "url": "https://vitraform.com/pdf_specifications/Vitraform%204.1.e%20Countersink%20Round-Oval%20ADA%202013.pdf",
         "filename": "Vitraform%204.1.e%20Countersink%20Round-Oval%20ADA%202013.pdf",
-        "category": "guide"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 5276,
@@ -2937,19 +3271,22 @@
         "id": 7124,
         "url": "https://www.legislation.qld.gov.au/view/whole/pdf/speciallabel/bill-2019-011/act-2009-045",
         "filename": "act-2009-045",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 4411,
         "url": "http://www.hpfreightways.co.uk/assets/downloads/hpfreightways-tankclean-privacy-policy.pdf",
         "filename": "hpfreightways-tankclean-privacy-policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 9980,
         "url": "https://netchd.org/DocumentCenter/View/247/Water-Conserving-On-Site-Wastewater-Treatment-Systems-PDF",
         "filename": "Water-Conserving-On-Site-Wastewater-Treatment-Systems-PDF",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 3462,
@@ -2961,37 +3298,43 @@
         "id": 6963,
         "url": "https://digitaltwin.digital/img/Digital%20Twin%20Terms%20and%20Conditions%20(web%20version).pdf",
         "filename": "Digital%20Twin%20Terms%20and%20Conditions%20(web%20version).pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 3057,
         "url": "https://explorecarbondale.com/AgendaCenter/ViewFile/Agenda/_06172021-1409",
         "filename": "_06172021-1409",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3707,
         "url": "https://globex360.co.za/wp-content/uploads/2021/01/Bonus-Policy.pdf",
         "filename": "Bonus-Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 4517,
         "url": "https://firebasestorage.googleapis.com/v0/b/rentle-prod.appspot.com/o/rentle-tos-pricing%2Ftos%2FRentle%20Terms%20and%20Conditions%20v.5.1.pdf?alt=media&token=211f64a8-cd8e-44dc-8a5d-6b6d2fb36ee6",
         "filename": "rentle-tos-pricing%2Ftos%2FRentle%20Terms%20and%20Conditions%20v.5.1.pdf?alt=media&token=211f64a8-cd8e-44dc-8a5d-6b6d2fb36ee6",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 1065,
         "url": "https://metrofibre.co.za/wp-content/uploads/2020/07/ResidentialTerms.pdf",
         "filename": "ResidentialTerms.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 3341,
         "url": "http://en.lignosil.com/fileadmin/pdf/en/Export_Price_List2010-General-Terms-Conditions.pdf",
         "filename": "Export_Price_List2010-General-Terms-Conditions.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 1694,
@@ -3015,7 +3358,8 @@
         "id": 2142,
         "url": "https://www.morgancargo.com/wp-content/uploads/2021/03/Morgan-Cargo-Standard-Trading-Terms-and-Conditions-2020.pdf",
         "filename": "Morgan-Cargo-Standard-Trading-Terms-and-Conditions-2020.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 4842,
@@ -3033,7 +3377,8 @@
         "id": 9158,
         "url": "https://www.health.gov.on.ca/en/pro/programs/publichealth/coronavirus/docs/vaccine/COVID-19_vaccination_pregnancy_decision_making_support_tool.pdf",
         "filename": "COVID-19_vaccination_pregnancy_decision_making_support_tool.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 6077,
@@ -3045,25 +3390,29 @@
         "id": 2042,
         "url": "https://claedesign.com/pdf/tc.pdf",
         "filename": "tc.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 4970,
         "url": "http://roughhousebrewing.com/wp-content/uploads/2021/06/Drink-Menu-6-24.pdf",
         "filename": "Drink-Menu-6-24.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4941,
         "url": "https://gscs-b2c.lge.com/downloadFile?fileId=4n2yM5qosTf6Rke7gNR4ag",
         "filename": "downloadFile?fileId=4n2yM5qosTf6Rke7gNR4ag",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 1021,
         "url": "http://hfsemi.com/TCs/Austria_hfsemi_Sales%20TCs%20Rev1_1.pdf",
         "filename": "Austria_hfsemi_Sales%20TCs%20Rev1_1.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 7029,
@@ -3123,13 +3472,15 @@
         "id": 2380,
         "url": "https://www.millernash.com/asset/60aee5bb8e087?original",
         "filename": "60aee5bb8e087?original",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 9039,
         "url": "http://www.lehpolice.org/wp-content/uploads/PDFs/lost_property_report.pdf",
         "filename": "lost_property_report.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 2623,
@@ -3147,19 +3498,22 @@
         "id": 2269,
         "url": "https://www.ncpedia.org/printpdf/12177",
         "filename": "12177",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 3705,
         "url": "https://mauicounty.gov/ArchiveCenter/ViewFile/Item/14387",
         "filename": "14387",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6136,
         "url": "http://srr.org.uk/wp-content/uploads/2021/07/SRR-Terms-and-disclaimer.pdf",
         "filename": "SRR-Terms-and-disclaimer.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 2598,
@@ -3177,19 +3531,22 @@
         "id": 8591,
         "url": "https://www.alphasystemsaoa.com/assets/PDFs/falcon/Falcon%20Installation%20Manual%20Rev%20BD%20111219_web.pdf",
         "filename": "Falcon%20Installation%20Manual%20Rev%20BD%20111219_web.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 6677,
         "url": "https://d32q2alwm0ek1h.cloudfront.net/okrsoftwaretools/OKRSoftwareTools-TermsofService.pdf",
         "filename": "OKRSoftwareTools-TermsofService.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 635,
         "url": "https://www.mcida.com/wp-content/uploads/2016/02/AGENDA-Regular-8-12-14.pdf",
         "filename": "AGENDA-Regular-8-12-14.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 3849,
@@ -3201,13 +3558,15 @@
         "id": 937,
         "url": "https://www.legis.la.gov/legis/ViewDocument.aspx?d=1223769",
         "filename": "ViewDocument.aspx?d=1223769",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 3319,
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L:1989:238:FULL&from=EN",
         "filename": "?uri=OJ:L:1989:238:FULL&from=EN",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 1127,
@@ -3225,7 +3584,8 @@
         "id": 5518,
         "url": "https://webserver.rilin.state.ri.us/BillText/BillText21/HouseText21/H6009.pdf",
         "filename": "H6009.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 7099,
@@ -3261,7 +3621,8 @@
         "id": 347,
         "url": "https://gfa-elektromaten.com/en-DE/products_SE.html?file=files/GfA/bilder/Products/05_Montageanleitungen_en/MAL_10002758_10011_00000_englisch.pdf&cid=5523",
         "filename": "MAL_10002758_10011_00000_englisch.pdf&cid=5523",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 9550,
@@ -3279,7 +3640,8 @@
         "id": 9999,
         "url": "https://www.peelports.com/media/p5tnpwbc/mobile-crane-t-c.pdf",
         "filename": "mobile-crane-t-c.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 2417,
@@ -3291,7 +3653,8 @@
         "id": 2874,
         "url": "https://www.philipsandepperson.com/wp-content/uploads/2021/06/eCheck-CCAuthForm_Firm-Payment-or-IOLTA.pdf",
         "filename": "eCheck-CCAuthForm_Firm-Payment-or-IOLTA.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 5449,
@@ -3327,7 +3690,8 @@
         "id": 8703,
         "url": "https://1m5tl93682u24d6ij03m4gp3-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/tokii-afternoon-tea-.pdf",
         "filename": "tokii-afternoon-tea-.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 9578,
@@ -3345,19 +3709,22 @@
         "id": 9004,
         "url": "https://www.johnsoncountyiowa.gov/sites/default/files/2021-07/Annual_Temp_Food_License_Fillable_Application.pdf",
         "filename": "Annual_Temp_Food_License_Fillable_Application.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 2335,
         "url": "http://hedeco.de/downloads/FCC_SDoC_Letter_Lime%20One.pdf",
         "filename": "FCC_SDoC_Letter_Lime%20One.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 2795,
         "url": "https://www.handifox.com/upload/iblock/dda/dda23c4bb92da40274f87217ca753440.pdf?referer=direct&user_ip=3.92.91.198&user_city=Ashburn&user_country=US&user_region=Virginia",
         "filename": "dda23c4bb92da40274f87217ca753440.pdf?referer=direct&user_ip=3.92.91.198&user_city=Ashburn&user_country=US&user_region=Virginia",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 1726,
@@ -3375,13 +3742,14 @@
         "id": 1933,
         "url": "https://www.klotzbachfuneralhomes.com/obituaries/Alan-Richter/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 1150,
         "url": "https://schlosshotelzermatt.ch/media/2371/bar-karte-sommer-2021.pdf",
         "filename": "bar-karte-sommer-2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 1137,
@@ -3393,7 +3761,8 @@
         "id": 3915,
         "url": "https://support-public.cfm.quest.com/50524_ChangeAuditor_7.0_InstallGuide.pdf",
         "filename": "50524_ChangeAuditor_7.0_InstallGuide.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9873,
@@ -3417,7 +3786,8 @@
         "id": 6309,
         "url": "http://hcs-wp.homeandcommercialsecurity.com/wp-content/uploads/2015/02/TVR-30-user-manual.pdf",
         "filename": "TVR-30-user-manual.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 1781,
@@ -3447,7 +3817,8 @@
         "id": 3535,
         "url": "https://rollag.com/wp-content/uploads/2021/06/WMSTR_FORM_21-PARADE-20210528.pdf",
         "filename": "WMSTR_FORM_21-PARADE-20210528.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 3339,
@@ -3465,7 +3836,8 @@
         "id": 9963,
         "url": "http://www.thermopride.com/wp-content/uploads/Parts-Book-and-Spec-Catalog-103-060121-1.pdf",
         "filename": "Parts-Book-and-Spec-Catalog-103-060121-1.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": true
     },
     {
         "id": 5573,
@@ -3501,7 +3873,8 @@
         "id": 3126,
         "url": "https://cdn.windwardstudios.com/Website/Terms%20of%20Use/Windward%20Website%20Terms%20of%20Use%205-6-21.pdf",
         "filename": "Windward%20Website%20Terms%20of%20Use%205-6-21.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 894,
@@ -3525,7 +3898,8 @@
         "id": 3327,
         "url": "https://www.countrysbarbecue.com/wp-content/uploads/2021/05/Countrys-on-Mercury-Menu.pdf",
         "filename": "Countrys-on-Mercury-Menu.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4194,
@@ -3555,7 +3929,8 @@
         "id": 8105,
         "url": "https://www.dentalez.com/wp-content/uploads/2020/03/Operators-Guide-External-0097-334-Rev.-K-Euro-Control-Head-Optimized.pdf",
         "filename": "Operators-Guide-External-0097-334-Rev.-K-Euro-Control-Head-Optimized.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 890,
@@ -3579,7 +3954,8 @@
         "id": 7825,
         "url": "https://www.worldofwearableart.com/wp-content/uploads/2016/11/2016-Media-Release-WOW-Supreme-Winner-Final.pdf",
         "filename": "2016-Media-Release-WOW-Supreme-Winner-Final.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 1524,
@@ -3591,7 +3967,8 @@
         "id": 9420,
         "url": "https://smithton-village.com/wp-content/uploads/2021/07/zoning-hearing-agenda-7.7.21.pdf",
         "filename": "zoning-hearing-agenda-7.7.21.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7916,
@@ -3603,7 +3980,8 @@
         "id": 8988,
         "url": "https://lyon-county.org/DocumentCenter/View/1531/LyonCounty_CharacterDistricts_12-23-2010?bidId=",
         "filename": "LyonCounty_CharacterDistricts_12-23-2010?bidId=",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 567,
@@ -3621,13 +3999,15 @@
         "id": 4245,
         "url": "https://cabinetdirect.com/cabinet-care/UC-Installation-Tips.pdf",
         "filename": "UC-Installation-Tips.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 9645,
         "url": "http://www.spyderrobotics.com/manuals/herpstatpro_manual.pdf",
         "filename": "herpstatpro_manual.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 2818,
@@ -3651,7 +4031,8 @@
         "id": 3559,
         "url": "https://myconvenient.net/wordpress/wp-content/uploads/2017/08/Catering_MartinsFerry.pdf",
         "filename": "Catering_MartinsFerry.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 1929,
@@ -3663,7 +4044,8 @@
         "id": 8129,
         "url": "https://cdia-events.s3.amazonaws.com/law+symposium/2021+Conference/Pat+Dubie+Bio.pdf",
         "filename": "Pat+Dubie+Bio.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 2615,
@@ -3699,7 +4081,8 @@
         "id": 6920,
         "url": "http://www.astomos.com/zwp/wp-content/uploads/2021/06/news_20210611_en.pdf",
         "filename": "news_20210611_en.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 2813,
@@ -3717,13 +4100,15 @@
         "id": 602,
         "url": "https://coronavirus.kdheks.gov/DocumentCenter/View/953/Guidance-for-Water-Recreation-Facilities-PDF---5-11-20",
         "filename": "Guidance-for-Water-Recreation-Facilities-PDF---5-11-20",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 3439,
         "url": "https://committees.parliament.uk/publications/6129/documents/68369/default/",
         "filename": "default",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 2509,
@@ -3771,7 +4156,8 @@
         "id": 3549,
         "url": "https://www.adiscon.org/manuals/eventreporter.pdf",
         "filename": "eventreporter.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 8009,
@@ -3789,13 +4175,15 @@
         "id": 8036,
         "url": "https://guernseytrademedia.com/media/rlap2wjq/2021-group-travel-brochure.pdf",
         "filename": "2021-group-travel-brochure.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 3159,
         "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0011/2300978/SA-and-E-Step-by-step-guide-to-admissions-FAQs-A4.pdf",
         "filename": "SA-and-E-Step-by-step-guide-to-admissions-FAQs-A4.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 6512,
@@ -3819,13 +4207,14 @@
         "id": 7627,
         "url": "https://genderarchive.org.uk/assets/pdfs/NHS%20South%20London%20and%20Maudsley%20NHS%20Foundation%20Trust%20-%20Guidance%20on%20supporting%20adult%20transgender%20service%20users.pdf",
         "filename": "NHS%20South%20London%20and%20Maudsley%20NHS%20Foundation%20Trust%20-%20Guidance%20on%20supporting%20adult%20transgender%20service%20users.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 4602,
         "url": "https://www.mccoyfuneralhome.com/obituaries/Nettie-West-Willard/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 9752,
@@ -3837,7 +4226,8 @@
         "id": 9831,
         "url": "https://hz.church/wp-content/uploads/2021/05/DDR-Service-Agreement-Horizon-Church-Jun-2018.pdf",
         "filename": "DDR-Service-Agreement-Horizon-Church-Jun-2018.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 7636,
@@ -3879,7 +4269,8 @@
         "id": 8632,
         "url": "https://resources.finalsite.net/images/v1570821301/loomis/irlmhcwnhpvjhqno1ml6/2019-COMM-MAP-Loop-AdmissionsParking.pdf",
         "filename": "2019-COMM-MAP-Loop-AdmissionsParking.pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": true
     },
     {
         "id": 4033,
@@ -3909,13 +4300,15 @@
         "id": 8275,
         "url": "https://www.greenwichct.gov/AgendaCenter/ViewFile/Minutes/_04262018-1962",
         "filename": "_04262018-1962",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 4329,
         "url": "https://s27.q4cdn.com/416616513/files/doc_downloads/common_forms/COA-FORM-BRIX.pdf",
         "filename": "COA-FORM-BRIX.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 6312,
@@ -3939,7 +4332,8 @@
         "id": 6818,
         "url": "https://freestyleserver.com/Payloads/IFU/2019/q2/ART40610-001_rev-A.pdf",
         "filename": "ART40610-001_rev-A.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 3676,
@@ -3957,7 +4351,8 @@
         "id": 4049,
         "url": "https://www.pbgh.org/wp-content/uploads/2021/07/PBGH-Letter-to-White-House-6-7-21.pdf",
         "filename": "PBGH-Letter-to-White-House-6-7-21.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 9251,
@@ -3975,7 +4370,8 @@
         "id": 2612,
         "url": "https://www.amnestyusa.org/wp-content/uploads/2021/02/Dilley-Sign-On-Letter_Feb-2-2021.pdf",
         "filename": "Dilley-Sign-On-Letter_Feb-2-2021.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 5474,
@@ -4005,13 +4401,15 @@
         "id": 997,
         "url": "https://img1.wsimg.com/blobby/go/0b4ba6a3-e894-4b7b-b313-8b74f01ffa19/downloads/1chhphcjv_531590.pdf?ver=1562112003180",
         "filename": "1chhphcjv_531590.pdf?ver=1562112003180",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 7021,
         "url": "https://tecplot.azureedge.net/products/rs/current/install.pdf",
         "filename": "install.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 2661,
@@ -4029,13 +4427,15 @@
         "id": 1405,
         "url": "https://www.operationrescue.org/wp-content/uploads/2021/06/2100026245_redacted.pdf",
         "filename": "2100026245_redacted.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 7506,
         "url": "http://www.lutherpeople.org/uploads/6/4/8/8/64886413/home_worship_guide_-_may_2021.pdf",
         "filename": "home_worship_guide_-_may_2021.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 5200,
@@ -4065,7 +4465,8 @@
         "id": 1000,
         "url": "https://b2b.technosun.com/web/image/185763?unique=b2e0b3b6b0b3c862759666dee389f55d9b8b7e9a",
         "filename": "185763?unique=b2e0b3b6b0b3c862759666dee389f55d9b8b7e9a",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 6365,
@@ -4119,13 +4520,15 @@
         "id": 1315,
         "url": "https://www.tsaoutdoors.com.au/wp-content/uploads/2021/06/NB20000-MSDS-WTX20S12103623B004.pdf",
         "filename": "NB20000-MSDS-WTX20S12103623B004.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 7578,
         "url": "https://ocpa-oh.org/resources/OCPA%20CPS%20Class%20Flyer%202021%20WCH.pdf",
         "filename": "OCPA%20CPS%20Class%20Flyer%202021%20WCH.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 2032,
@@ -4185,7 +4588,8 @@
         "id": 4278,
         "url": "https://s21.q4cdn.com/892556317/files/doc_downloads/2021/NIRI-SV-2021-President's-Letter_2.23.21_FINAL%5B1%5D.pdf",
         "filename": "NIRI-SV-2021-President's-Letter_2.23.21_FINAL%5B1%5D.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 8198,
@@ -4245,7 +4649,7 @@
         "id": 5012,
         "url": "https://www.goldfinchfuneralhome.com/obituaries/Shirley-Graham-1702/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 9415,
@@ -4263,13 +4667,15 @@
         "id": 3190,
         "url": "https://secureservercdn.net/166.62.110.72/663.a2c.myftpupload.com/wp-content/uploads/6-22-21-UCCRC-Governance-Meeting-Packet-FINAL.pdf",
         "filename": "6-22-21-UCCRC-Governance-Meeting-Packet-FINAL.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 7165,
         "url": "https://www.australianvintage.com.au/wp-content/uploads/2021/06/210630-AVL-EGM-Chairmans_Addresses-Presentation-ASX-Release-Final-combined.pdf",
         "filename": "210630-AVL-EGM-Chairmans_Addresses-Presentation-ASX-Release-Final-combined.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 9886,
@@ -4305,7 +4711,8 @@
         "id": 7104,
         "url": "http://scottcountyms.gov/sites/default/files/Scott%20hwy%20map.pdf",
         "filename": "Scott%20hwy%20map.pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": true
     },
     {
         "id": 5504,
@@ -4317,13 +4724,15 @@
         "id": 5231,
         "url": "https://www.green-dragon-inn.co.uk/wp-content/uploads/2021/07/Lunch-Menu-17.07.21-1.pdf",
         "filename": "Lunch-Menu-17.07.21-1.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 6715,
         "url": "http://immigration.laccd.edu/docs/2017-09-05_LACCD_Fam_re_DACA.pdf",
         "filename": "2017-09-05_LACCD_Fam_re_DACA.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 354,
@@ -4395,7 +4804,8 @@
         "id": 3450,
         "url": "https://imli.org/wp-content/uploads/2021/04/Vol.18-Issue-No.94-25-May-2021.pdf",
         "filename": "Vol.18-Issue-No.94-25-May-2021.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 2949,
@@ -4413,7 +4823,8 @@
         "id": 5684,
         "url": "https://www.prezzorestaurants.co.uk/globalassets/pdfs/allergen-menus/june-21-allergens/june-allergens---updated/prezzo-allergen-bambino-23.pdf",
         "filename": "prezzo-allergen-bambino-23.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 5548,
@@ -4425,7 +4836,8 @@
         "id": 5668,
         "url": "https://sitecoredev.azureedge.net/~/media/D81C4664C09A41DF993D95AB44C4A6D3.ashx?date=20210630T131208",
         "filename": "D81C4664C09A41DF993D95AB44C4A6D3.ashx?date=20210630T131208",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 4826,
@@ -4503,7 +4915,8 @@
         "id": 3485,
         "url": "https://webserver.rilin.state.ri.us/BillText/BillText21/SenateText21/S0038Aaa.pdf",
         "filename": "S0038Aaa.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 5367,
@@ -4527,13 +4940,15 @@
         "id": 4062,
         "url": "https://secureservercdn.net/45.40.148.234/gbp.bc6.myftpupload.com/wp-content/uploads/2021/07/OHC-canning2021.pdf",
         "filename": "OHC-canning2021.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 7397,
         "url": "https://www2.swbno.org/getfile.asp?documents/meetings/packets/packet_965.pdf",
         "filename": "packet_965.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 9744,
@@ -4557,7 +4972,8 @@
         "id": 8629,
         "url": "https://www.cascadecountymt.gov/DocumentCenter/View/490/Home-Occupation-Permit-Application-Package-PDF?bidId=",
         "filename": "Home-Occupation-Permit-Application-Package-PDF?bidId=",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 5338,
@@ -4569,7 +4985,8 @@
         "id": 1704,
         "url": "https://bostonwaterfrontpartners.org/wp-content/uploads/2019/06/BWP-Northern-Ave-Bridge-Letter-06.25.19.pdf",
         "filename": "BWP-Northern-Ave-Bridge-Letter-06.25.19.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 7395,
@@ -4617,7 +5034,8 @@
         "id": 3029,
         "url": "https://therockbury.com/wp-content/uploads/2021/05/Social-Media-comps-terms-and-conditions.pdf",
         "filename": "Social-Media-comps-terms-and-conditions.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 7026,
@@ -4629,7 +5047,8 @@
         "id": 9446,
         "url": "https://www.carnationsoftware.com/domains/MacWise/MacWise_Users_Manual_19.pdf",
         "filename": "MacWise_Users_Manual_19.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 1347,
@@ -4647,7 +5066,7 @@
         "id": 3661,
         "url": "https://www.mourning.com/obituaries/John-Mouton-2/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 6800,
@@ -4683,13 +5102,14 @@
         "id": 2351,
         "url": "https://www.greenvalleymortuary.com/obituaries/Michael-Tracy-3/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 9916,
         "url": "https://mk0yacktmanasseuq6jl.kinstacdn.com/wp-content/uploads/2020/06/YAM_Form-CRS_2020.pdf",
         "filename": "YAM_Form-CRS_2020.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 6288,
@@ -4749,13 +5169,15 @@
         "id": 3146,
         "url": "https://department.flemingcollege.ca/hr/attachment/474/download",
         "filename": "download",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 2662,
         "url": "https://sia.org/wp-content/uploads/2021/07/SIA-Membership_App-complete_2021.pdf",
         "filename": "SIA-Membership_App-complete_2021.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 5767,
@@ -4767,7 +5189,8 @@
         "id": 8267,
         "url": "https://lvmcc-pubs.rockwellautomation.com/pubs/1756-IN603C-EN-P.pdf",
         "filename": "1756-IN603C-EN-P.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 4138,
@@ -4797,7 +5220,8 @@
         "id": 4056,
         "url": "https://www.mooseintl.org/wp-content/uploads/sites/2/2014/06/LodgeCommitteeGuide_ML.pdf",
         "filename": "LodgeCommitteeGuide_ML.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 6910,
@@ -4821,7 +5245,8 @@
         "id": 1857,
         "url": "https://sunshinecoastaa.ca/wp-content/uploads/2020/06/7th-Tradition-letter-to-Fellowship.pdf",
         "filename": "7th-Tradition-letter-to-Fellowship.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 866,
@@ -4833,7 +5258,8 @@
         "id": 1513,
         "url": "https://lexingtonkofc.org/wp-content/uploads/2021/01/Associate-Membership-Application.pdf",
         "filename": "Associate-Membership-Application.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 2411,
@@ -4863,7 +5289,8 @@
         "id": 2128,
         "url": "https://appen2020.qreports.com.au/xresources/pdf/APX_Notice_of_Annual_General_Meeting.pdf",
         "filename": "APX_Notice_of_Annual_General_Meeting.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2412,
@@ -4923,7 +5350,8 @@
         "id": 1452,
         "url": "http://halfmoonlakenh.org/documents/meeting_notices/2013_meeting_notice_july.pdf",
         "filename": "2013_meeting_notice_july.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 2336,
@@ -4971,7 +5399,8 @@
         "id": 5850,
         "url": "http://fcnursery.org/2016/wp-content/uploads/2021/01/Tot-Time-Registration-Form-21-22-1.pdf",
         "filename": "Tot-Time-Registration-Form-21-22-1.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 6538,
@@ -5061,13 +5490,15 @@
         "id": 9414,
         "url": "https://milanmich.org/WS%20Meeting%20Notice%2012%2014%2020.pdf",
         "filename": "WS%20Meeting%20Notice%2012%2014%2020.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 9411,
         "url": "https://gfwc-mfwc.org/pdf/Calls/2021/State/21_Summer_Board_Summer_Institute_Letter.pdf",
         "filename": "21_Summer_Board_Summer_Institute_Letter.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 3454,
@@ -5079,7 +5510,8 @@
         "id": 217,
         "url": "https://www.phsneb.org/wp-content/uploads/2021/03/Gutierrez-Josue-1.pdf",
         "filename": "Gutierrez-Josue-1.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 6331,
@@ -5097,7 +5529,8 @@
         "id": 317,
         "url": "https://www.olderpeoplewales.com/Libraries/Residential_Care_Review_Responses/Betsi_Cadwaladr_UHB_Final_Letter_v1_0.sflb.ashx",
         "filename": "Betsi_Cadwaladr_UHB_Final_Letter_v1_0.sflb.ashx",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 634,
@@ -5109,13 +5542,14 @@
         "id": 748,
         "url": "https://www.mckoon.com/obituaries/Thomas-Couch-2/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 4880,
         "url": "https://www.pcaac.org/wp-content/uploads/2019/11/InternshipApp_MitchellRoadGreenvilleSC.pdf",
         "filename": "InternshipApp_MitchellRoadGreenvilleSC.pdf",
-        "category": "form"
+        "category": "job_posting",
+        "indicative": true
     },
     {
         "id": 5346,
@@ -5127,7 +5561,8 @@
         "id": 2595,
         "url": "https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_38287.pdf/$FILE/Local%20Government%20(Parking%20for%20Disabled%20Persons)%20Amendment%20Regulations%201996%20-%20%5B00-00-00%5D.pdf?OpenElement",
         "filename": "Local%20Government%20(Parking%20for%20Disabled%20Persons)%20Amendment%20Regulations%201996%20-%20%5B00-00-00%5D.pdf?OpenElement",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 3256,
@@ -5169,7 +5604,8 @@
         "id": 1385,
         "url": "https://ednaryan.net.au/wp-content/uploads/2012/11/Ordway-citation.pdf",
         "filename": "Ordway-citation.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 6621,
@@ -5211,7 +5647,8 @@
         "id": 3776,
         "url": "http://sugarfx.info/pdf/MANUAL_Punchline.pdf",
         "filename": "MANUAL_Punchline.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 2392,
@@ -5223,13 +5660,15 @@
         "id": 4459,
         "url": "https://bancoglasgow.com/wp-content/uploads/Banco-ALC-2021.pdf",
         "filename": "Banco-ALC-2021.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 3882,
         "url": "https://regalres.com/site/assets/files/3591/map_4.pdf",
         "filename": "map_4.pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": true
     },
     {
         "id": 5568,
@@ -5241,7 +5680,8 @@
         "id": 4923,
         "url": "https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=1061&context=president_desk",
         "filename": "viewcontent.cgi?article=1061&context=president_desk",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 1727,
@@ -5319,7 +5759,8 @@
         "id": 6555,
         "url": "http://www.letterstodan.com/resources/LTD-PDF-V1-L01_66/V1L28-The-Day-of-7-Part-6.pdf",
         "filename": "V1L28-The-Day-of-7-Part-6.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 7169,
@@ -5331,7 +5772,8 @@
         "id": 4190,
         "url": "https://www.healthpoint.co.nz/download,447449.do",
         "filename": "download,447449.do",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 8081,
@@ -5355,31 +5797,36 @@
         "id": 3328,
         "url": "https://www.chivemediagroup.com/uploads/KCCO_BLACK_LAGER_FINAL.pdf",
         "filename": "KCCO_BLACK_LAGER_FINAL.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 3481,
         "url": "https://wwmp.anl.gov/downloads/Wyoming_State_Map.pdf",
         "filename": "Wyoming_State_Map.pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": true
     },
     {
         "id": 2044,
         "url": "https://strides.com/pdf/shareholders-information/postal-ballet-notice/strides_letter_relating_to_sequent_reclassification_20201029.pdf",
         "filename": "strides_letter_relating_to_sequent_reclassification_20201029.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 4088,
         "url": "https://www.revisor.mn.gov/statutes/2019/cite/540.153/pdf",
         "filename": "pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 2673,
         "url": "https://www.cmap.illinois.gov/documents/10180/58240/Map1_OpenSpaceTally.pdf/764894cb-c99a-4afd-8bdd-834101275304",
         "filename": "764894cb-c99a-4afd-8bdd-834101275304",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 8061,
@@ -5409,7 +5856,8 @@
         "id": 3156,
         "url": "https://acdn.net/spip/spip.php?page=article_pdf&id_article=346&lang=en",
         "filename": "spip.php?page=article_pdf&id_article=346&lang=en",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 8718,
@@ -5433,7 +5881,8 @@
         "id": 4600,
         "url": "https://worksourcesouthwestgeorgia.org/index_htm_files/50%20Written%20Notice%20Required%20for%20Agenda%20PLCY-PROCED-COC%201.1.13%20new%20logo%20WIOA%20WDB%20no%20change%20in%20policy.pdf",
         "filename": "50%20Written%20Notice%20Required%20for%20Agenda%20PLCY-PROCED-COC%201.1.13%20new%20logo%20WIOA%20WDB%20no%20change%20in%20policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 8698,
@@ -5463,13 +5912,14 @@
         "id": 8437,
         "url": "https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_30628.pdf/$FILE/Transport%20(Country%20Taxi-car)%20Amendment%20Regulations%202015%20-%20%5B00-00-00%5D.pdf?OpenElement",
         "filename": "Transport%20(Country%20Taxi-car)%20Amendment%20Regulations%202015%20-%20%5B00-00-00%5D.pdf?OpenElement",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 7759,
         "url": "https://www.harrodbrothers.com/obituaries/Jackie-Taylor-9/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 8282,
@@ -5481,7 +5931,8 @@
         "id": 6415,
         "url": "http://www.austinburgtownship.org/wp-content/uploads/2016/03/2015-09-08.pdf",
         "filename": "2015-09-08.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3653,
@@ -5499,13 +5950,15 @@
         "id": 6142,
         "url": "http://www.retinal.md/PDF%20Forms/NEW%20PATIENT%20PROFILE%20FORM%202017.pdf",
         "filename": "NEW%20PATIENT%20PROFILE%20FORM%202017.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 4531,
         "url": "https://www.plioceneridge.org/files/439fcbedc/3015+Affirmative+Action.pdf",
         "filename": "3015+Affirmative+Action.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 3930,
@@ -5517,7 +5970,8 @@
         "id": 5306,
         "url": "https://tamekafryerbrown.com/wp-content/uploads/2019/09/BBL-Author-Letter.pdf",
         "filename": "BBL-Author-Letter.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 6072,
@@ -5535,7 +5989,8 @@
         "id": 4839,
         "url": "https://thebridportarms.co.uk/wp-content/uploads/2021/07/Wine-List-2021-White-and-Rose.pdf",
         "filename": "Wine-List-2021-White-and-Rose.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 4031,
@@ -5547,7 +6002,8 @@
         "id": 7488,
         "url": "https://maxivent.ca/wp-content/uploads/2018/01/Fiche-technique.pdf",
         "filename": "Fiche-technique.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 3721,
@@ -5589,13 +6045,15 @@
         "id": 6890,
         "url": "http://adamsbroomfieldda.org/wp-content/uploads/2015/03/Joshua-Calhoun-charged.pdf",
         "filename": "Joshua-Calhoun-charged.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 1666,
         "url": "https://princeville.org/wp-content/uploads/Property-Committee-Meeting-Agenda-06-07-2021.pdf",
         "filename": "Property-Committee-Meeting-Agenda-06-07-2021.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 9513,
@@ -5613,7 +6071,7 @@
         "id": 5655,
         "url": "https://www.nljonesandsons.com/obituaries/Osie-Lee-Mosley/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 508,
@@ -5637,7 +6095,8 @@
         "id": 5644,
         "url": "https://www.bloomu.edu/documents/guide-campus-living",
         "filename": "guide-campus-living",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 7777,
@@ -5649,7 +6108,8 @@
         "id": 6424,
         "url": "https://bannerwitcoff.com/wp-content/uploads/pdfs/nationally-recognized-trial-lawyer-sanjay-murthy-joins-banner-witcoffs-chicago-office.pdf",
         "filename": "nationally-recognized-trial-lawyer-sanjay-murthy-joins-banner-witcoffs-chicago-office.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 9570,
@@ -5709,7 +6169,8 @@
         "id": 4032,
         "url": "https://www.ukmt.org.uk/sites/default/files/ukmt/policies/Online%20Safety%20Policy%20(4).pdf",
         "filename": "Online%20Safety%20Policy%20(4).pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 9822,
@@ -5721,13 +6182,15 @@
         "id": 1919,
         "url": "https://s3.eu-west-1.amazonaws.com/jotter2.files/14708741?response-content-type=application%2Fpdf&response-content-disposition=inline%3Bfilename%3Dletter-to-school-community---positive-covid-19-case-in-school-06.07.21.pdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIH4MJHC24RK4EHAA%2F20210805%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20210805T151501Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3000&X-Amz-Signature=dffe2c6d8944717e2821404ebc13bfeddc8ec8c442141df8e59071775e2f4390",
         "filename": "14708741?response-content-type=application%2Fpdf&response-content-disposition=inline%3Bfilename%3Dletter-to-school-community---positive-covid-19-case-in-school-06.07.21.pdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIH4MJHC24RK4EHAA%2F20210805%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20210805T151501Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3000&X-Amz-Signature=dffe2c6d8944717e2821404ebc13bfeddc8ec8c442141df8e59071775e2f4390",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 3318,
         "url": "https://keralaregistration.gov.in/pearlpublic/downloads/The%20Special%20Marriage%20Act.pdf?tok=jfjj3kkf9bfd2d",
         "filename": "The%20Special%20Marriage%20Act.pdf?tok=jfjj3kkf9bfd2d",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": true
     },
     {
         "id": 3216,
@@ -5745,13 +6208,15 @@
         "id": 5876,
         "url": "https://storage.googleapis.com/siteassetsswd/369/docletter/20210709012856_10_General_letter_to_all_school_following_Positive_in_July_2021.pdf",
         "filename": "20210709012856_10_General_letter_to_all_school_following_Positive_in_July_2021.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 6335,
         "url": "https://www.papeetebeach.com/wp-content/uploads/2021/06/Formato-A5_Papeete_drink-list.pdf",
         "filename": "Formato-A5_Papeete_drink-list.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 800,
@@ -5763,7 +6228,8 @@
         "id": 6253,
         "url": "https://clra.com/Rowing/Coxing/Lake-Rowing-Association_Coxing.aspx",
         "filename": "Lake-Rowing-Association_Coxing.aspx",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 2800,
@@ -5793,7 +6259,8 @@
         "id": 5455,
         "url": "https://framinghamma.gov/DocumentCenter/View/21542/Booking-and-Building-Video",
         "filename": "Booking-and-Building-Video",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 886,
@@ -5841,7 +6308,8 @@
         "id": 6442,
         "url": "http://holdsworth.vwt25camper.info/July_1985_VW_T25_Instruction_ManualVWT25WM.pdf",
         "filename": "July_1985_VW_T25_Instruction_ManualVWT25WM.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 835,
@@ -5865,7 +6333,8 @@
         "id": 4767,
         "url": "https://www.belmont.wa.gov.au/docs/ecm/local-planning-policy-no-04-belgravia-barker-streets",
         "filename": "local-planning-policy-no-04-belgravia-barker-streets",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 486,
@@ -5877,13 +6346,15 @@
         "id": 6956,
         "url": "https://www.envirco-hvac.com/getfile2.aspx?fileid=9109",
         "filename": "getfile2.aspx?fileid=9109",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 3736,
         "url": "https://pol.tasb.org/Policy/Download/483?filename=A18(LEGAL).pdf",
         "filename": "483?filename=A18(LEGAL).pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 8184,
@@ -5907,7 +6378,8 @@
         "id": 6622,
         "url": "https://www.foundationscotland.org.uk/sites/default/files/2021-03/Anti-Modern%20Slavery%20Policy%20-%20Foundation%20Scotland_0.pdf",
         "filename": "Anti-Modern%20Slavery%20Policy%20-%20Foundation%20Scotland_0.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 3555,
@@ -5961,7 +6433,8 @@
         "id": 9259,
         "url": "https://sassyresources.com/PressReleases/Sassy-Resources-News-Release-May-14-2021.pdf",
         "filename": "Sassy-Resources-News-Release-May-14-2021.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 692,
@@ -5979,7 +6452,8 @@
         "id": 2056,
         "url": "http://www.firstschoolofmath.com/Summer_Appl_Form.pdf",
         "filename": "Summer_Appl_Form.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 861,
@@ -5997,7 +6471,8 @@
         "id": 381,
         "url": "https://greatoakscollege.com/wp-content/uploads/2021/06/Promoting-Healthy-Lifestyles-Nov-2020.pdf",
         "filename": "Promoting-Healthy-Lifestyles-Nov-2020.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 3780,
@@ -6039,7 +6514,8 @@
         "id": 7426,
         "url": "https://www.pcmatic.com/userguides/WindowsInstallGuide.pdf",
         "filename": "WindowsInstallGuide.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 1500,
@@ -6057,7 +6533,8 @@
         "id": 6894,
         "url": "https://mettle.net/wp-content/uploads/2021/06/MCF_PAIA_Manual_210630.pdf",
         "filename": "MCF_PAIA_Manual_210630.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 2029,
@@ -6069,37 +6546,43 @@
         "id": 5561,
         "url": "https://car.ca/wp-content/uploads/2021/05/CAR_Conflict-of-Interest_Policy.pdf",
         "filename": "CAR_Conflict-of-Interest_Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 5132,
         "url": "https://www.nsun.org.uk/wp-content/uploads/2021/07/Final-NSUN-Equality-Diversity-and-Inclusion-Policy-UPDATED-May-2021-2.pdf",
         "filename": "Final-NSUN-Equality-Diversity-and-Inclusion-Policy-UPDATED-May-2021-2.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 5920,
         "url": "https://www.spectrolab.com/illuminations/pdfs/operation_manuals/033566l_OpsManual.pdf",
         "filename": "033566l_OpsManual.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 1828,
         "url": "https://www.eguanatech.com/_resources/news/nr-20210419.pdf",
         "filename": "nr-20210419.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 2330,
         "url": "https://forum.gsi.de/pdf.php?msg=23646&rid=0",
         "filename": "pdf.php?msg=23646&rid=0",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 2560,
         "url": "https://secureservercdn.net/160.153.137.218/3c9.f20.myftpupload.com/wp-content/uploads/2017/01/161117-Long-Term-Authorization.pdf",
         "filename": "161117-Long-Term-Authorization.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 2824,
@@ -6111,13 +6594,15 @@
         "id": 9461,
         "url": "https://stocksbridgehigh.co.uk/download/15/df7d17a9417666be2b9938926b0fb3a2",
         "filename": "df7d17a9417666be2b9938926b0fb3a2",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 5120,
         "url": "http://www.trinitycollege.qld.edu.au/about-us/Documents/Complaints%20and%20Appeals%20Policy.pdf",
         "filename": "Complaints%20and%20Appeals%20Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 5323,
@@ -6165,7 +6650,8 @@
         "id": 8567,
         "url": "https://www.conwayprimaryschool.co.uk/attachments/download.asp?file=212&type=pdf",
         "filename": "download.asp?file=212&type=pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 4246,
@@ -6183,13 +6669,15 @@
         "id": 5369,
         "url": "https://rawthrills.com/wp-content/uploads/2021/05/Minecraft-v1.10.pdf",
         "filename": "Minecraft-v1.10.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 6380,
         "url": "https://thedeanclub.co.uk/wp-content/uploads/2020/11/DTSC-Whistleblowing-Policy-Nov20.pdf",
         "filename": "DTSC-Whistleblowing-Policy-Nov20.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 2546,
@@ -6201,19 +6689,22 @@
         "id": 9397,
         "url": "https://hfhplanning.com/wp-content/uploads/Sample-Agreement-2021.pdf",
         "filename": "Sample-Agreement-2021.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 6409,
         "url": "https://www.reno-therapy.com/storage/app/media/about-confidentiality.pdf",
         "filename": "about-confidentiality.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 6845,
         "url": "https://www.bataviadownsgaming.com/wp-content/uploads/2021/06/Ship-In-Warm-Up-Policy-21-0730.pdf",
         "filename": "Ship-In-Warm-Up-Policy-21-0730.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 7101,
@@ -6231,13 +6722,15 @@
         "id": 6648,
         "url": "https://aw930cdnprdcd.azureedge.net/-/media/aw/files/brochures/2020-to-current-literature/200-series-product-guide.pdf?modified=20210514163950",
         "filename": "200-series-product-guide.pdf?modified=20210514163950",
-        "category": "guide"
+        "category": "guide",
+        "indicative": true
     },
     {
         "id": 6803,
         "url": "https://www.leicestershospitals.nhs.uk/EasysiteWeb/getresource.axd?AssetID=29939&type=full&servicetype=Attachment",
         "filename": "getresource.axd?AssetID=29939&type=full&servicetype=Attachment",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 7163,
@@ -6249,7 +6742,8 @@
         "id": 6023,
         "url": "https://www.king-george.va.us/DocumentCenter/View/7412/KGCSA-Disconnection-Late-Fee-Notice---June-11-2021",
         "filename": "KGCSA-Disconnection-Late-Fee-Notice---June-11-2021",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 3628,
@@ -6279,25 +6773,29 @@
         "id": 7089,
         "url": "https://www.thebolsoverschool.org/attachments/download.asp?file=444&type=pdf",
         "filename": "download.asp?file=444&type=pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 7198,
         "url": "https://assets.website-files.com/5e6752e6ecf9e957adb0abaa/609ab2e2125bf89ddf366801_Whiteacres%20message%20to%20patients.pdf",
         "filename": "609ab2e2125bf89ddf366801_Whiteacres%20message%20to%20patients.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 9052,
         "url": "https://www.cityofcrestwood.org/DocumentCenter/View/529/2021-01-13-Article-5",
         "filename": "2021-01-13-Article-5",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 8641,
         "url": "http://noacks.com.s3-website-us-east-1.amazonaws.com/Directions/NoacksDirections.PDF",
         "filename": "NoacksDirections.PDF",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 9773,
@@ -6309,13 +6807,15 @@
         "id": 9799,
         "url": "https://www.sentosa.gov.sg/files/resources/news/20201126_Media_Release_Islander_Brew.pdf",
         "filename": "20201126_Media_Release_Islander_Brew.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 9061,
         "url": "http://www.amandapflugrad.com/wp-content/uploads/2021/04/Pflugrad-2020-Resume.pdf",
         "filename": "Pflugrad-2020-Resume.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 2329,
@@ -6363,7 +6863,8 @@
         "id": 6923,
         "url": "http://maizechamber.com/PDF/citycode.pdf",
         "filename": "citycode.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 8332,
@@ -6381,7 +6882,8 @@
         "id": 3456,
         "url": "https://www.lw.com/mediaCoverage/rising-star-latham-rachel-bates",
         "filename": "rising-star-latham-rachel-bates",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 5926,
@@ -6393,7 +6895,8 @@
         "id": 2059,
         "url": "https://www.bikeright.co.uk/media/public/downloads/BCG_Quality_Assurance_and_Training_Standards_Policy_v_4_June_2021.pdf",
         "filename": "BCG_Quality_Assurance_and_Training_Standards_Policy_v_4_June_2021.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 9718,
@@ -6417,7 +6920,8 @@
         "id": 4770,
         "url": "http://www.drlangberg.com/wp-content/uploads/forms/new-patient-package.pdf",
         "filename": "new-patient-package.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": false
     },
     {
         "id": 792,
@@ -6435,7 +6939,8 @@
         "id": 6188,
         "url": "http://www.tbmpts.com/wp-content/uploads/2021/07/AET-EY-MSA-24.11.pdf",
         "filename": "AET-EY-MSA-24.11.pdf",
-        "category": "course_syllabus"
+        "category": "course_syllabus",
+        "indicative": false
     },
     {
         "id": 7067,
@@ -6447,7 +6952,8 @@
         "id": 8819,
         "url": "https://www.iloveputtle.com/cwo_images/ipo_overview_pinplacement_s.pdf",
         "filename": "ipo_overview_pinplacement_s.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 1879,
@@ -6459,7 +6965,8 @@
         "id": 9431,
         "url": "https://ifbagro.in/assets/images/investor_relations/Stock_Exch_Letter_searchable_17052021.pdf",
         "filename": "Stock_Exch_Letter_searchable_17052021.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": true
     },
     {
         "id": 6452,
@@ -6477,7 +6984,8 @@
         "id": 5502,
         "url": "http://cloud.spok.com/Board-Policy-Enterprise-Human-Rights-Policy.pdf",
         "filename": "Board-Policy-Enterprise-Human-Rights-Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 7984,
@@ -6495,7 +7003,8 @@
         "id": 1841,
         "url": "http://apipat.com/document/product/product_61.pdf",
         "filename": "product_61.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 9021,
@@ -6525,7 +7034,8 @@
         "id": 3233,
         "url": "http://elm.sweetwaterschools.org/files/2021/06/COVID-Employee-Consent-form_exp.-06.30.22-002.pdf",
         "filename": "COVID-Employee-Consent-form_exp.-06.30.22-002.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 6608,
@@ -6537,7 +7047,8 @@
         "id": 8665,
         "url": "https://www.daviscountyiowa.gov/wp-content/uploads/2019/08/July-22-2019.pdf",
         "filename": "July-22-2019.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 3546,
@@ -6579,7 +7090,8 @@
         "id": 3541,
         "url": "https://abga.org/wp-content/uploads/2021/05/Conflict-of-Interest-.pdf",
         "filename": "Conflict-of-Interest-.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": false
     },
     {
         "id": 3839,
@@ -6609,7 +7121,8 @@
         "id": 3385,
         "url": "https://3cf725bf-9a52-4e6d-91f4-8c00d6533e9e.filesusr.com/ugd/d838e6_12944f887f384ab8a93f04beaee9f8c9.pdf",
         "filename": "d838e6_12944f887f384ab8a93f04beaee9f8c9.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 5222,
@@ -6633,7 +7146,8 @@
         "id": 1072,
         "url": "https://uploads-ssl.webflow.com/5ee0a1d06a85efb2080443c4/6048efa61395d0d1d69b11a9_Price%20Chart%202021.pdf",
         "filename": "6048efa61395d0d1d69b11a9_Price%20Chart%202021.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 5624,
@@ -6669,7 +7183,8 @@
         "id": 8927,
         "url": "https://www.texaslottery.com/export/sites/lottery/Documents/news_releases/2021/Claim_Centers_to_Resume_Walk-In_Claims_Processing_July_12.pdf",
         "filename": "Claim_Centers_to_Resume_Walk-In_Claims_Processing_July_12.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 9326,
@@ -6687,7 +7202,8 @@
         "id": 1188,
         "url": "https://www.modot.org/sites/default/files/documents/AppendixE_LongtermInterchangeConcepts.pdf",
         "filename": "AppendixE_LongtermInterchangeConcepts.pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 3868,
@@ -6723,7 +7239,8 @@
         "id": 4887,
         "url": "https://www.scarlett.ru/ajax/files/113753/7b96ce2c967d60403959c6f411213b00/",
         "filename": "7b96ce2c967d60403959c6f411213b00",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 7570,
@@ -6735,19 +7252,22 @@
         "id": 4094,
         "url": "https://www.lilyparkprimary.org.uk/attachments/download.asp?file=166&type=pdf",
         "filename": "download.asp?file=166&type=pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 431,
         "url": "http://interaction.magnezit.ru/images/docs/PERSONAL_DATA_PROCESSING_POLICY.pdf",
         "filename": "PERSONAL_DATA_PROCESSING_POLICY.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 5961,
         "url": "https://www.revisor.mn.gov/statutes/2020/2020-10-29%2017:33:21+00:00/cite/60A.71/pdf",
         "filename": "pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 1700,
@@ -6759,7 +7279,8 @@
         "id": 3810,
         "url": "http://jstn.me/resume/JustinBreenResume.pdf",
         "filename": "JustinBreenResume.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 1815,
@@ -6777,19 +7298,22 @@
         "id": 2184,
         "url": "https://d1f7mutwx69w5n.cloudfront.net/innatlongwood.com-3096213555/cms/pressroom/covid_response_may_29_2021_updated.pdf",
         "filename": "covid_response_may_29_2021_updated.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 7509,
         "url": "http://assets.winterparkresort.com.s3.amazonaws.com/PDF/press/ATK-18-078%20Amtrak%20Winter%20Park%20Express%20Adds%20Lounge%20Car.pdf",
         "filename": "ATK-18-078%20Amtrak%20Winter%20Park%20Express%20Adds%20Lounge%20Car.pdf",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 6196,
         "url": "https://honeycombplc.com/media/10658/honeycomb-investment-trust-plc-april-2021-newsletter.pdf",
         "filename": "honeycomb-investment-trust-plc-april-2021-newsletter.pdf",
-        "category": "newsletter"
+        "category": "newsletter",
+        "indicative": true
     },
     {
         "id": 4677,
@@ -6801,13 +7325,14 @@
         "id": 9458,
         "url": "https://deepcreekbc.org/wp-content/uploads/2018/02/Larger-Catechism-I-Workbook-1.pdf",
         "filename": "Larger-Catechism-I-Workbook-1.pdf",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 1267,
         "url": "https://www.sunsetfuneralhomes.net/obituaries/Rene-Diaz-4749/Print/Wall",
         "filename": "Wall",
-        "category": "resume"
+        "category": "oos"
     },
     {
         "id": 6124,
@@ -6819,7 +7344,8 @@
         "id": 7472,
         "url": "https://www.aauw.org/app/uploads/2020/02/Comments-to-Department-of-Education-Opposing-Proposed-Regulatory-Changes-Regarding-Title-IX-nsa.pdf",
         "filename": "Comments-to-Department-of-Education-Opposing-Proposed-Regulatory-Changes-Regarding-Title-IX-nsa.pdf",
-        "category": "letter"
+        "category": "letter",
+        "indicative": false
     },
     {
         "id": 6216,
@@ -6837,7 +7363,8 @@
         "id": 2801,
         "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/USTopo/PDF/TX/TX_Callo_Padrones_20100525_TM_geo.pdf",
         "filename": "TX_Callo_Padrones_20100525_TM_geo.pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 8006,
@@ -6849,19 +7376,22 @@
         "id": 1927,
         "url": "https://www.bayfieldcounty.org/DocumentCenter/View/991/Pilsen-PDF",
         "filename": "Pilsen-PDF",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 7177,
         "url": "https://www.wiebeandjeskefh.com/obituary/robert-west/?print=obituary",
         "filename": "?print=obituary",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 3433,
         "url": "https://kindlehill.nsw.edu.au/wp-content/uploads/2021/05/Kindlehill-Child-Protection-Policy.pdf",
         "filename": "Kindlehill-Child-Protection-Policy.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 4562,
@@ -6879,13 +7409,15 @@
         "id": 1532,
         "url": "https://www.caulders.co.uk/wp-content/uploads/caulders-a3-1-3-menu-1-1.pdf",
         "filename": "caulders-a3-1-3-menu-1-1.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": true
     },
     {
         "id": 8292,
         "url": "https://momoinc.gcs-web.com/static-files/428a88ad-d687-458e-9e03-8f23f113072d",
         "filename": "428a88ad-d687-458e-9e03-8f23f113072d",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": false
     },
     {
         "id": 6059,
@@ -6897,13 +7429,15 @@
         "id": 3552,
         "url": "https://archive.opengazettes.org.za/archive/ZA/2021/government-gazette-ZA-vol-672-no-44646-dated-2021-06-01.pdf",
         "filename": "government-gazette-ZA-vol-672-no-44646-dated-2021-06-01.pdf",
-        "category": "bill_act_law"
+        "category": "bill_act_law",
+        "indicative": false
     },
     {
         "id": 825,
         "url": "https://www.amphastar.com/assets/neostigmine-methylsulfate-sales-sheet-11-27-17-1-.pdf",
         "filename": "neostigmine-methylsulfate-sales-sheet-11-27-17-1-.pdf",
-        "category": "specification"
+        "category": "specification",
+        "indicative": false
     },
     {
         "id": 8561,
@@ -6915,7 +7449,8 @@
         "id": 3681,
         "url": "https://www.guitar-inspiration.com/download/blues-lick-lesson-01/?wpdmdl=435&refresh=60d32ff54e80b1624453109",
         "filename": "?wpdmdl=435&refresh=60d32ff54e80b1624453109",
-        "category": "guide"
+        "category": "guide",
+        "indicative": false
     },
     {
         "id": 5384,
@@ -6927,7 +7462,8 @@
         "id": 6559,
         "url": "https://spehcf.com.au/upload/pdf/Lazarus%20Centre%20News%20letter%20Easter%202021.pdf",
         "filename": "Lazarus%20Centre%20News%20letter%20Easter%202021.pdf",
-        "category": "newsletter"
+        "category": "newsletter",
+        "indicative": true
     },
     {
         "id": 1978,
@@ -6963,7 +7499,8 @@
         "id": 7462,
         "url": "https://campinginthesmokymountains.com/wp-content/uploads/2021/06/Pigeon-River-Campground-Policies-Rules.pdf",
         "filename": "Pigeon-River-Campground-Policies-Rules.pdf",
-        "category": "policy"
+        "category": "policy",
+        "indicative": true
     },
     {
         "id": 738,
@@ -6993,13 +7530,15 @@
         "id": 69,
         "url": "https://www.orientalrestaurants.com.my/wp-content/uploads/2021/06/Fathers-day-SW-Yu-Ruyi.pdf",
         "filename": "Fathers-day-SW-Yu-Ruyi.pdf",
-        "category": "restaurant_menu"
+        "category": "restaurant_menu",
+        "indicative": false
     },
     {
         "id": 5412,
         "url": "http://antonelli-lab.net/wp-content/uploads/2021/07/Antonelli_CV_full_1July2021.pdf",
         "filename": "Antonelli_CV_full_1July2021.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": true
     },
     {
         "id": 2018,
@@ -7077,7 +7616,8 @@
         "id": 646,
         "url": "https://www.visitunionsquaresf.com/sites/default/files/ERTF%20Report%20Final_Incl.%20Meeting%204.pdf",
         "filename": "ERTF%20Report%20Final_Incl.%20Meeting%204.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": true
     },
     {
         "id": 6722,
@@ -7089,7 +7629,8 @@
         "id": 7854,
         "url": "https://www.whatcomcounty.us/DocumentCenter/View/46780/04022020-Media-Release-WCHD-expands-testing-capacity-for-priority-populationsdocx",
         "filename": "04022020-Media-Release-WCHD-expands-testing-capacity-for-priority-populationsdocx",
-        "category": "press_release"
+        "category": "press_release",
+        "indicative": true
     },
     {
         "id": 167,
@@ -7101,7 +7642,8 @@
         "id": 8922,
         "url": "https://rapidscity.us/minutes/20180926COW.pdf",
         "filename": "20180926COW.pdf",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 6370,
@@ -7131,13 +7673,15 @@
         "id": 8714,
         "url": "https://ormondbeach.org/ArchiveCenter/ViewFile/Item/4734",
         "filename": "4734",
-        "category": "meeting_minutes"
+        "category": "meeting_minutes",
+        "indicative": false
     },
     {
         "id": 7828,
         "url": "http://dopfoundationinc.com/wp-content/uploads/2021/07/2021-DOP-Foundation-Board-Application_Fillable-1.pdf",
         "filename": "2021-DOP-Foundation-Board-Application_Fillable-1.pdf",
-        "category": "form"
+        "category": "form",
+        "indicative": true
     },
     {
         "id": 6418,
@@ -7149,7 +7693,8 @@
         "id": 7213,
         "url": "https://www.connleybrothersfuneralhome.com/wp-content/plugins/terrapro-wordpress/print.php?t=obituary&post_id=3182",
         "filename": "print.php?t=obituary&post_id=3182",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     },
     {
         "id": 3900,
@@ -7161,13 +7706,15 @@
         "id": 7492,
         "url": "https://flightaware.com/resources/airport/KREI/IAP/all/pdf",
         "filename": "pdf",
-        "category": "map"
+        "category": "map",
+        "indicative": false
     },
     {
         "id": 6060,
         "url": "https://gmo-ni.com/assets/documents/May-2019-Daily-Gas-Prices_210202_094526.pdf",
         "filename": "May-2019-Daily-Gas-Prices_210202_094526.pdf",
-        "category": "price_list"
+        "category": "price_list",
+        "indicative": true
     },
     {
         "id": 549,
@@ -7185,6 +7732,7 @@
         "id": 9226,
         "url": "https://gavledraget.se/HannahHaslingden.pdf",
         "filename": "HannahHaslingden.pdf",
-        "category": "resume"
+        "category": "resume",
+        "indicative": false
     }
 ]
